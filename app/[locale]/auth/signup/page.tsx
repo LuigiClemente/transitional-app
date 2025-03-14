@@ -46,7 +46,7 @@ function PageSignUp() {
   const [langOpen, setLangOpen] = useState<boolean>(false);
   
   // User state
-  const [showAgreement, setShowAgreement] = useState<boolean>(true);
+  const [showAgreement, setShowAgreement] = useState<boolean>(false);
   const [error, setError] = useState<string | null>(null);
 
   const {

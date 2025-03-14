@@ -51,7 +51,7 @@ function PageLogin() {
   
   // User state
   const [welcomeBack, setWelcomeBack] = useState(false);
-  const [showAgreement, setShowAgreement] = useState<boolean>(true);
+  const [showAgreement, setShowAgreement] = useState<boolean>(false);
   const [error, setError] = useState<string | null>(null);
 
   const {
