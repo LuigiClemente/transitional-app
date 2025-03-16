@@ -39,6 +39,8 @@ let codeRun = false;
 function PageLogin() {
   const t = useTranslations('Index');
   const tLogin = useTranslations('login');
+  const tIndex = useTranslations('Index');
+
   const router = useRouter();
   const searchParams = useSearchParams();
   const token = searchParams.get('token');
@@ -221,8 +223,8 @@ function PageLogin() {
 
                 <div className="flex items-center justify-between">
                   <div></div>
-                  <Link href="/auth/signup" tabIndex={-1} className="text-gray-700 hover:underline text-sm font-medium">
-                    {tLogin('noAccount')}
+                  <Link href="/auth/forgot-password" target='_blank' tabIndex={-1} className="text-gray-700 hover:underline text-sm font-medium">
+                    {tIndex('welcomeOrWelcomeBackPage.forgotPassword')}
                   </Link>
                 </div>
 

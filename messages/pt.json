@@ -88,7 +88,22 @@
   "Do any of your parents or siblings have cardiovascular disease?": "Algum dos seus pais ou irmãos tem doença cardiovascular?",
   "Confirmation": "Confirmação"
 }
-,"Steps": {
+, "Navigation":{
+  "Resources": "Recursos",
+  "Store": "Loja",
+  "Plans": "Planos",
+  "Appointments": "Compromissos",
+  "Payments": "Pagamentos",
+  "Documents": "Documentos",
+  "Personal": "Pessoal",
+  "Sign out": "Sair",
+  "Blog": "Blog",
+  "Latest": "Último",
+  "description_heading": "Um blog criado com Next.js e Tailwind.css",
+  "search_prompt": "Digite um comando ou procure.....",
+  "Content": "Conteúdo",
+  "Search": "Pesquisar"
+},"Steps": {
     "step_1": "Passo 1",
     "receive_your_kit": "Receba o Seu Kit",
     "step_1_description": "O seu kit de teste personalizado está a caminho! Dentro encontrará um monitor de glicose, um teste de lípidos por picada no dedo e um kit de amostras de fezes para o microbioma. Fique atento à sua chegada.",
@@ -158,7 +173,7 @@
     "errorSigningUp": "Erro ao registrar ou QR code inválido",
     "unknownError": "Ocorreu um erro desconhecido ao entrar. Tente novamente mais tarde.",
     "unknownErrorTryAgain": "Ocorreu um erro desconhecido. Tente novamente mais tarde.",
-    "noAccount": "Ainda não tem uma conta? Cadastre-se"
+    "forgotPassword":"","noAccount": "Ainda não tem uma conta? Cadastre-se"
   },
   "signup": {
     "createAccount": "Criar uma conta",

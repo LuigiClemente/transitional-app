@@ -156,8 +156,24 @@
     "errorSigningUp": "Fehler bei der Anmeldung oder ung\u00fcltiger QR-Code",
     "unknownError": "Beim Anmeldeversuch ist ein unbekannter Fehler aufgetreten. Bitte versuchen Sie es sp\u00e4ter noch einmal.",
     "unknownErrorTryAgain": "Ein unbekannter Fehler ist aufgetreten. Bitte versuchen Sie es sp\u00e4ter noch einmal.",
-    "noAccount": "Kein Konto? Registrieren"
+    "forgotPassword":"Passwort vergessen?","noAccount": "Kein Konto? Registrieren"
   },
+  "Navigaion" : {
+  "Resources": "Ressourcen",
+  "Store": "Shop",
+  "Plans": "Pläne",
+  "Appointments": "Termine",
+  "Payments": "Zahlungen",
+  "Documents": "Dokumente",
+  "Personal": "Persönlich",
+  "Sign out": "Abmelden",
+  "Blog": "Blog",
+  "Latest": "Neueste",
+  "description_heading": "Ein Blog erstellt mit Next.js und Tailwind.css",
+  "search_prompt": "Geben Sie einen Befehl ein oder suchen Sie.....",
+  "Content": "Inhalt",
+    "Search": "Suchen"
+},
   "signup": {
     "createAccount": "Konto erstellen",
     "firstName": "Vorname",

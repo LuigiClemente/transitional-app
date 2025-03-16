@@ -1,4 +1,20 @@
-{
+{"Navigation":{
+    "Resources": "Resources",
+    "Store": "Store",
+    "Plans": "Plans",
+    "Appointments": "Appointments",
+    "Payments": "Payments",
+    "Documents": "Documents",
+    "Personal": "Personal",
+    "Sign out": "Sign out",
+    "Blog": "Blog",
+    "Latest": "Latest",
+    "description_heading": "A blog created with Next.js and Tailwind.css",
+    "search_prompt": "Type a command or search.....",
+    "Content": "Content",
+     "Search": "Search"
+  }
+  ,
 
   "Questions":{
 
@@ -159,7 +175,7 @@
     "errorSigningUp": "Error signing up or Invalid QR Code",
     "unknownError": "We encountered an unknown error while attempting to sign you in. Please try again later.",
     "unknownErrorTryAgain": "An unknown error occurred. Please try again later.",
-    "noAccount": "Not have an account? Sign up"
+    "forgotPassword":"Forgot Password?","noAccount": "Not have an account? Sign up"
   },
   "signup": {
     "createAccount": "Create an Account",

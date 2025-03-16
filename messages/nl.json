@@ -108,7 +108,22 @@
     "lab_analysis_and_assessment": "Laboratoriumanalyse en Beoordeling",
     "step_5_description": "Onze laboratoriumexperts zullen uw monsters analyseren, inclusief continue glucosemonitoringgegevens, lipidenprofiel en microbiome-analyse. Uw gepersonaliseerde voedingsbeoordeling zal binnenkort beschikbaar zijn in de app en onthult de voedingsmiddelen die het beste bij uw lichaam passen."
 }
-, 
+, "Navigation":{
+  "Resources": "Middelen",
+  "Store": "Winkel",
+  "Plans": "Plannen",
+  "Appointments": "Afspraken",
+  "Payments": "Betalingen",
+  "Documents": "Documenten",
+  "Personal": "Persoonlijk",
+  "Sign out": "Uitloggen",
+  "Blog": "Blog",
+  "Latest": "Laatste",
+  "description_heading": "Een blog gemaakt met Next.js en Tailwind.css",
+  "search_prompt": "Typ een opdracht of zoek.....",
+  "Content": "Inhoud",
+   "Search": "Zoeken"
+},
   "Index": {
     "Home": "Home",
     "About_Us": "Over Ons",
@@ -157,7 +172,7 @@
     "errorSigningUp": "Fout bij registreren of QR-code ongeldig",
     "unknownError": "Er is een onbekende fout opgetreden bij het inloggen. Probeer het later opnieuw.",
     "unknownErrorTryAgain": "Er is een onbekende fout opgetreden. Probeer het later opnieuw.",
-    "noAccount": "Nog geen account? Registreer"
+    "forgotPassword":"","noAccount": "Nog geen account? Registreer"
   },
   "signup": {
     "createAccount": "Maak een account aan",

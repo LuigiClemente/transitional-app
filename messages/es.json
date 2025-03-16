@@ -109,7 +109,23 @@
   "lab_analysis_and_assessment": "Análisis y Evaluación del Laboratorio",
   "step_5_description": "Nuestros expertos en laboratorio analizarán sus muestras, incluyendo los datos de monitoreo continuo de glucosa, el perfil de lípidos y el análisis del microbioma. Su evaluación nutricional personalizada estará disponible próximamente en la aplicación, revelando los alimentos más adecuados para las necesidades de su cuerpo."
 }
-, 
+, "Navigation":{
+  "Resources": "Recursos",
+  "Store": "Tienda",
+  "Plans": "Planes",
+  "Appointments": "Citas",
+  "Payments": "Pagos",
+  "Documents": "Documentos",
+  "Personal": "Personal",
+  "Sign out": "Cerrar sesión",
+  "Blog": "Blog",
+  "Latest": "Último",
+  "description_heading": "Un blog creado con Next.js y Tailwind.css",
+  "search_prompt": "Escribe un comando o busca.....",
+  "Content": "Contenido",
+  "Search": "Buscar"
+}
+,
   "Index": {
     "Home": "Inicio",
     "About_Us": "Sobre Nosotros",
@@ -158,7 +174,7 @@
     "errorSigningUp": "Error al registrarse o código QR inválido",
     "unknownError": "Se produjo un error desconocido al intentar iniciar sesión. Inténtelo de nuevo más tarde.",
     "unknownErrorTryAgain": "Ocurrió un error desconocido. Inténtelo de nuevo más tarde.",
-    "noAccount": "¿No tiene una cuenta? Regístrese"
+    "forgotPassword":"","noAccount": "¿No tiene una cuenta? Regístrese"
   },
   "signup": {
     "createAccount": "Crear una cuenta",

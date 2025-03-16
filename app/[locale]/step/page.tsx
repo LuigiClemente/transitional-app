@@ -1,6 +1,8 @@
 "use client"
 import QuestionModal from "@/components/FormQuestions";
+import { GlobalHeader } from "@/components/global-header";
 import { Navigation } from "@/components/Navigation";
+import { OtherHeader } from "@/components/other-header";
 import Stepper from "@/components/Stepper";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useState } from "react";
@@ -24,16 +26,8 @@ export default function Questions(){
     return (
     <section>
          <div className='custom-container'>
-           <Navigation 
-             navOpen={navOpen} 
-             langOpen={langOpen} 
-             setLangOpen={setLangOpen} 
-             setNavOpen={setNavOpen} 
-             isHovered={isHovered} 
-             setIsHovered={setIsHovered} 
-             isLangBtnHovered={isLangBtnHovered} 
-             setIsLangBtnHovered={setIsLangBtnHovered} 
-           />
+         <GlobalHeader  user={{firstName : "waleedtahir" , lastName :"Tahir" , id : "Waleed Thair "}}/>
+         <OtherHeader noLocalModal={true}  />
          </div>
         <Stepper/>
         

@@ -110,6 +110,22 @@
     "lab_analysis_and_assessment": "Analisi e Valutazione di Laboratorio",
     "step_5_description": "I nostri esperti di laboratorio analizzeranno i tuoi campioni, inclusi i dati del monitoraggio continuo del glucosio, il profilo lipidico e l'analisi del microbioma. La tua valutazione nutrizionale personalizzata sarà presto disponibile nell'app, rivelando gli alimenti più adatti alle esigenze del tuo corpo."
 }
+,  "Navigation":{
+  "Resources": "Risorse",
+  "Store": "Negozio",
+  "Plans": "Piani",
+  "Appointments": "Appuntamenti",
+  "Payments": "Pagamenti",
+  "Documents": "Documenti",
+  "Personal": "Personale",
+  "Sign out": "Esci",
+  "Blog": "Blog",
+  "Latest": "Ultimo",
+  "description_heading": "Un blog creato con Next.js e Tailwind.css",
+  "search_prompt": "Digita un comando o cerca.....",
+  "Content": "Contenuto",
+  "Search": "Cerca"
+}
 ,
   "Index": {
     "Home": "Home",
@@ -159,7 +175,7 @@
     "errorSigningUp": "Errore nella registrazione o QR Code non valido",
     "unknownError": "Abbiamo riscontrato un errore sconosciuto durante il tentativo di accesso. Riprova più tardi.",
     "unknownErrorTryAgain": "Si è verificato un errore sconosciuto. Riprova più tardi.",
-    "noAccount": "Non hai un account? Registrati"
+    "forgotPassword":"","noAccount": "Non hai un account? Registrati"
   },
   "signup": {
     "createAccount": "Crea un account",
