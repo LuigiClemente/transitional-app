@@ -1,0 +1,20 @@
+{
+  "title": "Vul de Vragenlijst In",
+  "description": "Help ons uw levensstijl en voedingsgewoonten te begrijpen door de gedetailleerde vragenlijst in de app in te vullen. Dit is cruciaal voor het nauwkeurig afstemmen van uw beoordeling.",
+  "order": 2,
+  "key": "step2",
+  "body": {
+    "raw": "\n# Vul de Vragenlijst In\n\nHelp ons uw levensstijl en voedingsgewoonten te begrijpen door de gedetailleerde vragenlijst in de app in te vullen. Dit is cruciaal voor het nauwkeurig afstemmen van uw beoordeling.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var g=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var j=Object.getPrototypeOf,v=Object.prototype.hasOwnProperty;var h=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),w=(e,n)=>{for(var r in n)i(e,r,{get:n[r],enumerable:!0})},s=(e,n,r,l)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of m(n))!v.call(e,o)&&o!==r&&i(e,o,{get:()=>n[o],enumerable:!(l=p(n,o))||l.enumerable});return e};var x=(e,n,r)=>(r=e!=null?g(j(e)):{},s(n||!e||!e.__esModule?i(r,\"default\",{value:e,enumerable:!0}):r,e)),f=e=>s(i({},\"__esModule\",{value:!0}),e);var d=h((V,a)=>{a.exports=_jsx_runtime});var b={};w(b,{default:()=>c,frontmatter:()=>_});var t=x(d()),_={title:\"Vul de Vragenlijst In\",order:2,key:\"step2\",description:\"Help ons uw levensstijl en voedingsgewoonten te begrijpen door de gedetailleerde vragenlijst in de app in te vullen. Dit is cruciaal voor het nauwkeurig afstemmen van uw beoordeling.\"};function u(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.h1,{children:\"Vul de Vragenlijst In\"}),`\n`,(0,t.jsx)(n.p,{children:\"Help ons uw levensstijl en voedingsgewoonten te begrijpen door de gedetailleerde vragenlijst in de app in te vullen. Dit is cruciaal voor het nauwkeurig afstemmen van uw beoordeling.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function c(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(u,{...e})}):u(e)}return f(b);})();\n;return Component;"
+  },
+  "_id": "steps/step2/nl.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step2/nl.mdx",
+    "sourceFileName": "nl.mdx",
+    "sourceFileDir": "steps/step2",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step2/nl"
+  },
+  "type": "Step",
+  "slug": "step2/nl"
+}

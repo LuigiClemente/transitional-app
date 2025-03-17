@@ -1,0 +1,20 @@
+{
+  "title": "Recevez Votre Kit",
+  "description": "Votre kit de test personnalisé est en route ! À l'intérieur, vous trouverez un moniteur de glucose, un test lipidique par piqûre au doigt et un kit d'échantillon de selles pour le microbiome. Attendez son arrivée prochainement.",
+  "order": 1,
+  "key": "step1",
+  "body": {
+    "raw": "\n# Recevez Votre Kit\n\nVotre kit de test personnalisé est en route ! À l'intérieur, vous trouverez un moniteur de glucose, un test lipidique par piqûre au doigt et un kit d'échantillon de selles pour le microbiome. Attendez son arrivée prochainement.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var p=Object.create;var i=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,v=Object.prototype.hasOwnProperty;var _=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),g=(e,t)=>{for(var r in t)i(e,r,{get:t[r],enumerable:!0})},u=(e,t,r,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let o of h(t))!v.call(e,o)&&o!==r&&i(e,o,{get:()=>t[o],enumerable:!(s=m(t,o))||s.enumerable});return e};var z=(e,t,r)=>(r=e!=null?p(x(e)):{},u(t||!e||!e.__esModule?i(r,\"default\",{value:e,enumerable:!0}):r,e)),f=e=>u(i({},\"__esModule\",{value:!0}),e);var c=_((V,l)=>{l.exports=_jsx_runtime});var k={};g(k,{default:()=>d,frontmatter:()=>j});var n=z(c()),j={title:\"Recevez Votre Kit\",order:1,key:\"step1\",description:\"Votre kit de test personnalis\\xE9 est en route ! \\xC0 l'int\\xE9rieur, vous trouverez un moniteur de glucose, un test lipidique par piq\\xFBre au doigt et un kit d'\\xE9chantillon de selles pour le microbiome. Attendez son arriv\\xE9e prochainement.\"};function a(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.h1,{children:\"Recevez Votre Kit\"}),`\n`,(0,n.jsx)(t.p,{children:\"Votre kit de test personnalis\\xE9 est en route ! \\xC0 l'int\\xE9rieur, vous trouverez un moniteur de glucose, un test lipidique par piq\\xFBre au doigt et un kit d'\\xE9chantillon de selles pour le microbiome. Attendez son arriv\\xE9e prochainement.\"}),`\n`,(0,n.jsx)(\"userStyle\",{children:\"Normal\"})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(a,{...e})}):a(e)}return f(k);})();\n;return Component;"
+  },
+  "_id": "steps/step1/fr.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step1/fr.mdx",
+    "sourceFileName": "fr.mdx",
+    "sourceFileDir": "steps/step1",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step1/fr"
+  },
+  "type": "Step",
+  "slug": "step1/fr"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Laboratoriumanalyse en Beoordeling",
+  "description": "Onze laboratoriumexperts zullen uw monsters analyseren, inclusief continue glucosemonitoringgegevens, lipidenprofiel en microbioomanalyse. Uw gepersonaliseerde voedingsbeoordeling zal binnenkort beschikbaar zijn in de app, waarbij de voedingsmiddelen die het beste bij de behoeften van uw lichaam passen, worden onthuld.",
+  "order": 5,
+  "key": "step5",
+  "body": {
+    "raw": "\n# Laboratoriumanalyse en Beoordeling\n\nOnze laboratoriumexperts zullen uw monsters analyseren, inclusief continue glucosemonitoringgegevens, lipidenprofiel en microbioomanalyse. Uw gepersonaliseerde voedingsbeoordeling zal binnenkort beschikbaar zijn in de app, waarbij de voedingsmiddelen die het beste bij de behoeften van uw lichaam passen, worden onthuld.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var u=Object.create;var t=Object.defineProperty;var b=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var f=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),j=(e,n)=>{for(var i in n)t(e,i,{get:n[i],enumerable:!0})},s=(e,n,i,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let r of p(n))!h.call(e,r)&&r!==i&&t(e,r,{get:()=>n[r],enumerable:!(a=b(n,r))||a.enumerable});return e};var w=(e,n,i)=>(i=e!=null?u(g(e)):{},s(n||!e||!e.__esModule?t(i,\"default\",{value:e,enumerable:!0}):i,e)),x=e=>s(t({},\"__esModule\",{value:!0}),e);var d=f((_,l)=>{l.exports=_jsx_runtime});var v={};j(v,{default:()=>m,frontmatter:()=>y});var o=w(d()),y={title:\"Laboratoriumanalyse en Beoordeling\",order:5,key:\"step5\",description:\"Onze laboratoriumexperts zullen uw monsters analyseren, inclusief continue glucosemonitoringgegevens, lipidenprofiel en microbioomanalyse. Uw gepersonaliseerde voedingsbeoordeling zal binnenkort beschikbaar zijn in de app, waarbij de voedingsmiddelen die het beste bij de behoeften van uw lichaam passen, worden onthuld.\"};function c(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(n.h1,{children:\"Laboratoriumanalyse en Beoordeling\"}),`\n`,(0,o.jsx)(n.p,{children:\"Onze laboratoriumexperts zullen uw monsters analyseren, inclusief continue glucosemonitoringgegevens, lipidenprofiel en microbioomanalyse. Uw gepersonaliseerde voedingsbeoordeling zal binnenkort beschikbaar zijn in de app, waarbij de voedingsmiddelen die het beste bij de behoeften van uw lichaam passen, worden onthuld.\"}),`\n`,(0,o.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(e={}){let{wrapper:n}=e.components||{};return n?(0,o.jsx)(n,{...e,children:(0,o.jsx)(c,{...e})}):c(e)}return x(v);})();\n;return Component;"
+  },
+  "_id": "steps/step5/nl.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step5/nl.mdx",
+    "sourceFileName": "nl.mdx",
+    "sourceFileDir": "steps/step5",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step5/nl"
+  },
+  "type": "Step",
+  "slug": "step5/nl"
+}

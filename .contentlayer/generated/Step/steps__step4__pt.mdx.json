@@ -1,0 +1,20 @@
+{
+  "title": "Envie as Suas Amostras para o Laboratório",
+  "description": "Embale cuidadosamente as suas amostras recolhidas e envie-as de volta para o nosso laboratório utilizando o envelope de devolução pré-pago. Este passo é vital para a sua análise personalizada.",
+  "order": 4,
+  "key": "step4",
+  "body": {
+    "raw": "\n# Envie as Suas Amostras para o Laboratório\n\nEmbale cuidadosamente as suas amostras recolhidas e envie-as de volta para o nosso laboratório utilizando o envelope de devolução pré-pago. Este passo é vital para a sua análise personalizada.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var c=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var v=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var _=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),b=(a,e)=>{for(var s in e)r(a,s,{get:e[s],enumerable:!0})},i=(a,e,s,n)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let t of v(e))!x.call(a,t)&&t!==s&&r(a,t,{get:()=>e[t],enumerable:!(n=m(e,t))||n.enumerable});return a};var E=(a,e,s)=>(s=a!=null?c(h(a)):{},i(e||!a||!a.__esModule?r(s,\"default\",{value:a,enumerable:!0}):s,a)),f=a=>i(r({},\"__esModule\",{value:!0}),a);var d=_((y,l)=>{l.exports=_jsx_runtime});var g={};b(g,{default:()=>u,frontmatter:()=>j});var o=E(d()),j={title:\"Envie as Suas Amostras para o Laborat\\xF3rio\",order:4,key:\"step4\",description:\"Embale cuidadosamente as suas amostras recolhidas e envie-as de volta para o nosso laborat\\xF3rio utilizando o envelope de devolu\\xE7\\xE3o pr\\xE9-pago. Este passo \\xE9 vital para a sua an\\xE1lise personalizada.\"};function p(a){let e={h1:\"h1\",p:\"p\",...a.components};return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(e.h1,{children:\"Envie as Suas Amostras para o Laborat\\xF3rio\"}),`\n`,(0,o.jsx)(e.p,{children:\"Embale cuidadosamente as suas amostras recolhidas e envie-as de volta para o nosso laborat\\xF3rio utilizando o envelope de devolu\\xE7\\xE3o pr\\xE9-pago. Este passo \\xE9 vital para a sua an\\xE1lise personalizada.\"}),`\n`,(0,o.jsx)(\"userStyle\",{children:\"Normal\"})]})}function u(a={}){let{wrapper:e}=a.components||{};return e?(0,o.jsx)(e,{...a,children:(0,o.jsx)(p,{...a})}):p(a)}return f(g);})();\n;return Component;"
+  },
+  "_id": "steps/step4/pt.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step4/pt.mdx",
+    "sourceFileName": "pt.mdx",
+    "sourceFileDir": "steps/step4",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step4/pt"
+  },
+  "type": "Step",
+  "slug": "step4/pt"
+}

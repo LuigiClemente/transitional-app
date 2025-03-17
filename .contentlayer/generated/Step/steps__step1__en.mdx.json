@@ -1,0 +1,20 @@
+{
+  "title": "Receive Your Kit",
+  "description": "Your personalised test kit is on its way! Inside, you'll find a glucose monitor, a finger-prick lipid test, and a microbiome stool sample kit. Look out for its arrival soon.",
+  "order": 1,
+  "key": "step1",
+  "body": {
+    "raw": "\n# Receive Your Kit\n\nYour personalised test kit is on its way! Inside, you'll find a glucose monitor, a finger-prick lipid test, and a microbiome stool sample kit. Look out for its arrival soon.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var u=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var k=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var h=(o,t)=>()=>(t||o((t={exports:{}}).exports,t),t.exports),y=(o,t)=>{for(var i in t)r(o,i,{get:t[i],enumerable:!0})},a=(o,t,i,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let n of f(t))!x.call(o,n)&&n!==i&&r(o,n,{get:()=>t[n],enumerable:!(s=p(t,n))||s.enumerable});return o};var _=(o,t,i)=>(i=o!=null?u(k(o)):{},a(t||!o||!o.__esModule?r(i,\"default\",{value:o,enumerable:!0}):i,o)),g=o=>a(r({},\"__esModule\",{value:!0}),o);var c=h((w,l)=>{l.exports=_jsx_runtime});var v={};y(v,{default:()=>m,frontmatter:()=>j});var e=_(c()),j={title:\"Receive Your Kit\",order:1,key:\"step1\",description:\"Your personalised test kit is on its way! Inside, you'll find a glucose monitor, a finger-prick lipid test, and a microbiome stool sample kit. Look out for its arrival soon.\"};function d(o){let t={h1:\"h1\",p:\"p\",...o.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(t.h1,{children:\"Receive Your Kit\"}),`\n`,(0,e.jsx)(t.p,{children:\"Your personalised test kit is on its way! Inside, you'll find a glucose monitor, a finger-prick lipid test, and a microbiome stool sample kit. Look out for its arrival soon.\"}),`\n`,(0,e.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(o={}){let{wrapper:t}=o.components||{};return t?(0,e.jsx)(t,{...o,children:(0,e.jsx)(d,{...o})}):d(o)}return g(v);})();\n;return Component;"
+  },
+  "_id": "steps/step1/en.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step1/en.mdx",
+    "sourceFileName": "en.mdx",
+    "sourceFileDir": "steps/step1",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step1/en"
+  },
+  "type": "Step",
+  "slug": "step1/en"
+}

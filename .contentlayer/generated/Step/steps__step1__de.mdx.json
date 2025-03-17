@@ -1,0 +1,20 @@
+{
+  "title": "Erhalten Sie Ihr Kit",
+  "description": "Ihr personalisiertes Testkit ist unterwegs! Darin finden Sie einen Glukosemonitor, einen Lipidtest mit Fingerpikser und ein Stuhlproben-Kit für das Mikrobiom. Achten Sie auf seine baldige Ankunft.",
+  "order": 1,
+  "key": "step1",
+  "body": {
+    "raw": "\n# Erhalten Sie Ihr Kit\n\nIhr personalisiertes Testkit ist unterwegs! Darin finden Sie einen Glukosemonitor, einen Lipidtest mit Fingerpikser und ein Stuhlproben-Kit für das Mikrobiom. Achten Sie auf seine baldige Ankunft.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var c=Object.create;var s=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,k=Object.prototype.hasOwnProperty;var x=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),S=(e,n)=>{for(var i in n)s(e,i,{get:n[i],enumerable:!0})},a=(e,n,i,o)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let r of p(n))!k.call(e,r)&&r!==i&&s(e,r,{get:()=>n[r],enumerable:!(o=m(n,r))||o.enumerable});return e};var g=(e,n,i)=>(i=e!=null?c(f(e)):{},a(n||!e||!e.__esModule?s(i,\"default\",{value:e,enumerable:!0}):i,e)),_=e=>a(s({},\"__esModule\",{value:!0}),e);var d=x((A,u)=>{u.exports=_jsx_runtime});var j={};S(j,{default:()=>h,frontmatter:()=>b});var t=g(d()),b={title:\"Erhalten Sie Ihr Kit\",order:1,key:\"step1\",description:\"Ihr personalisiertes Testkit ist unterwegs! Darin finden Sie einen Glukosemonitor, einen Lipidtest mit Fingerpikser und ein Stuhlproben-Kit f\\xFCr das Mikrobiom. Achten Sie auf seine baldige Ankunft.\"};function l(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.h1,{children:\"Erhalten Sie Ihr Kit\"}),`\n`,(0,t.jsx)(n.p,{children:\"Ihr personalisiertes Testkit ist unterwegs! Darin finden Sie einen Glukosemonitor, einen Lipidtest mit Fingerpikser und ein Stuhlproben-Kit f\\xFCr das Mikrobiom. Achten Sie auf seine baldige Ankunft.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function h(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(l,{...e})}):l(e)}return _(j);})();\n;return Component;"
+  },
+  "_id": "steps/step1/de.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step1/de.mdx",
+    "sourceFileName": "de.mdx",
+    "sourceFileDir": "steps/step1",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step1/de"
+  },
+  "type": "Step",
+  "slug": "step1/de"
+}

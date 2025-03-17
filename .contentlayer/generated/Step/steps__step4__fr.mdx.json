@@ -1,0 +1,20 @@
+{
+  "title": "Envoyez Vos Échantillons au Laboratoire",
+  "description": "Emballez soigneusement vos échantillons collectés et renvoyez-les à notre laboratoire en utilisant l'enveloppe de retour prépayée. Cette étape est vitale pour votre analyse personnalisée.",
+  "order": 4,
+  "key": "step4",
+  "body": {
+    "raw": "\n# Envoyez Vos Échantillons au Laboratoire\n\nEmballez soigneusement vos échantillons collectés et renvoyez-les à notre laboratoire en utilisant l'enveloppe de retour prépayée. Cette étape est vitale pour votre analyse personnalisée.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var m=Object.create;var s=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var v=Object.getOwnPropertyNames;var d=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var x=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),_=(e,t)=>{for(var o in t)s(e,o,{get:t[o],enumerable:!0})},l=(e,t,o,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of v(t))!y.call(e,r)&&r!==o&&s(e,r,{get:()=>t[r],enumerable:!(a=h(t,r))||a.enumerable});return e};var b=(e,t,o)=>(o=e!=null?m(d(e)):{},l(t||!e||!e.__esModule?s(o,\"default\",{value:e,enumerable:!0}):o,e)),z=e=>l(s({},\"__esModule\",{value:!0}),e);var c=x((C,i)=>{i.exports=_jsx_runtime});var j={};_(j,{default:()=>u,frontmatter:()=>f});var n=b(c()),f={title:\"Envoyez Vos \\xC9chantillons au Laboratoire\",order:4,key:\"step4\",description:\"Emballez soigneusement vos \\xE9chantillons collect\\xE9s et renvoyez-les \\xE0 notre laboratoire en utilisant l'enveloppe de retour pr\\xE9pay\\xE9e. Cette \\xE9tape est vitale pour votre analyse personnalis\\xE9e.\"};function p(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.h1,{children:\"Envoyez Vos \\xC9chantillons au Laboratoire\"}),`\n`,(0,n.jsx)(t.p,{children:\"Emballez soigneusement vos \\xE9chantillons collect\\xE9s et renvoyez-les \\xE0 notre laboratoire en utilisant l'enveloppe de retour pr\\xE9pay\\xE9e. Cette \\xE9tape est vitale pour votre analyse personnalis\\xE9e.\"}),`\n`,(0,n.jsx)(\"userStyle\",{children:\"Normal\"})]})}function u(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(p,{...e})}):p(e)}return z(j);})();\n;return Component;"
+  },
+  "_id": "steps/step4/fr.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step4/fr.mdx",
+    "sourceFileName": "fr.mdx",
+    "sourceFileDir": "steps/step4",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step4/fr"
+  },
+  "type": "Step",
+  "slug": "step4/fr"
+}

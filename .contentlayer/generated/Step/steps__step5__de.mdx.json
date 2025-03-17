@@ -1,0 +1,20 @@
+{
+  "title": "Laboranalyse und Bewertung",
+  "description": "Unsere Laborexperten werden Ihre Proben analysieren, einschließlich kontinuierlicher Glukoseüberwachungsdaten, Lipidprofil und Mikrobiomanalyse. Ihre personalisierte Ernährungsbewertung wird in Kürze in der App verfügbar sein und zeigt die Lebensmittel, die am besten zu den Bedürfnissen Ihres Körpers passen.",
+  "order": 5,
+  "key": "step5",
+  "body": {
+    "raw": "\n# Laboranalyse und Bewertung\n\nUnsere Laborexperten werden Ihre Proben analysieren, einschließlich kontinuierlicher Glukoseüberwachungsdaten, Lipidprofil und Mikrobiomanalyse. Ihre personalisierte Ernährungsbewertung wird in Kürze in der App verfügbar sein und zeigt die Lebensmittel, die am besten zu den Bedürfnissen Ihres Körpers passen.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var p=Object.create;var t=Object.defineProperty;var c=Object.getOwnPropertyDescriptor;var b=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var f=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),w=(e,n)=>{for(var i in n)t(e,i,{get:n[i],enumerable:!0})},o=(e,n,i,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let s of b(n))!g.call(e,s)&&s!==i&&t(e,s,{get:()=>n[s],enumerable:!(a=c(n,s))||a.enumerable});return e};var x=(e,n,i)=>(i=e!=null?p(m(e)):{},o(n||!e||!e.__esModule?t(i,\"default\",{value:e,enumerable:!0}):i,e)),y=e=>o(t({},\"__esModule\",{value:!0}),e);var l=f((z,d)=>{d.exports=_jsx_runtime});var k={};w(k,{default:()=>h,frontmatter:()=>L});var r=x(l()),L={title:\"Laboranalyse und Bewertung\",order:5,key:\"step5\",description:\"Unsere Laborexperten werden Ihre Proben analysieren, einschlie\\xDFlich kontinuierlicher Glukose\\xFCberwachungsdaten, Lipidprofil und Mikrobiomanalyse. Ihre personalisierte Ern\\xE4hrungsbewertung wird in K\\xFCrze in der App verf\\xFCgbar sein und zeigt die Lebensmittel, die am besten zu den Bed\\xFCrfnissen Ihres K\\xF6rpers passen.\"};function u(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(n.h1,{children:\"Laboranalyse und Bewertung\"}),`\n`,(0,r.jsx)(n.p,{children:\"Unsere Laborexperten werden Ihre Proben analysieren, einschlie\\xDFlich kontinuierlicher Glukose\\xFCberwachungsdaten, Lipidprofil und Mikrobiomanalyse. Ihre personalisierte Ern\\xE4hrungsbewertung wird in K\\xFCrze in der App verf\\xFCgbar sein und zeigt die Lebensmittel, die am besten zu den Bed\\xFCrfnissen Ihres K\\xF6rpers passen.\"}),`\n`,(0,r.jsx)(\"userStyle\",{children:\"Normal\"})]})}function h(e={}){let{wrapper:n}=e.components||{};return n?(0,r.jsx)(n,{...e,children:(0,r.jsx)(u,{...e})}):u(e)}return y(k);})();\n;return Component;"
+  },
+  "_id": "steps/step5/de.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step5/de.mdx",
+    "sourceFileName": "de.mdx",
+    "sourceFileDir": "steps/step5",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step5/de"
+  },
+  "type": "Step",
+  "slug": "step5/de"
+}

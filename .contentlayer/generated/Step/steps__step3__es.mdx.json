@@ -1,0 +1,20 @@
+{
+  "title": "Recolecta Tus Muestras",
+  "description": "Sigue las instrucciones de tu kit para recolectar tus muestras de glucosa, lípidos y microbioma. Una recolección precisa garantiza los mejores resultados para tu evaluación.",
+  "order": 3,
+  "key": "step3",
+  "body": {
+    "raw": "\n# Recolecta Tus Muestras\n\nSigue las instrucciones de tu kit para recolectar tus muestras de glucosa, lípidos y microbioma. Una recolección precisa garantiza los mejores resultados para tu evaluación.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var d=Object.create;var n=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var j=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),_=(e,t)=>{for(var a in t)n(e,a,{get:t[a],enumerable:!0})},c=(e,t,a,o)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let s of x(t))!h.call(e,s)&&s!==a&&n(e,s,{get:()=>t[s],enumerable:!(o=p(t,s))||o.enumerable});return e};var f=(e,t,a)=>(a=e!=null?d(g(e)):{},c(t||!e||!e.__esModule?n(a,\"default\",{value:e,enumerable:!0}):a,e)),y=e=>c(n({},\"__esModule\",{value:!0}),e);var u=j((b,i)=>{i.exports=_jsx_runtime});var k={};_(k,{default:()=>m,frontmatter:()=>M});var r=f(u()),M={title:\"Recolecta Tus Muestras\",order:3,key:\"step3\",description:\"Sigue las instrucciones de tu kit para recolectar tus muestras de glucosa, l\\xEDpidos y microbioma. Una recolecci\\xF3n precisa garantiza los mejores resultados para tu evaluaci\\xF3n.\"};function l(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(t.h1,{children:\"Recolecta Tus Muestras\"}),`\n`,(0,r.jsx)(t.p,{children:\"Sigue las instrucciones de tu kit para recolectar tus muestras de glucosa, l\\xEDpidos y microbioma. Una recolecci\\xF3n precisa garantiza los mejores resultados para tu evaluaci\\xF3n.\"}),`\n`,(0,r.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(e={}){let{wrapper:t}=e.components||{};return t?(0,r.jsx)(t,{...e,children:(0,r.jsx)(l,{...e})}):l(e)}return y(k);})();\n;return Component;"
+  },
+  "_id": "steps/step3/es.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step3/es.mdx",
+    "sourceFileName": "es.mdx",
+    "sourceFileDir": "steps/step3",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step3/es"
+  },
+  "type": "Step",
+  "slug": "step3/es"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Análise Laboratorial e Avaliação",
+  "description": "Os nossos especialistas de laboratório analisarão as suas amostras, incluindo dados de monitorização contínua de glicose, perfil lipídico e análise do microbioma. A sua avaliação nutricional personalizada estará disponível em breve na aplicação, revelando os alimentos mais adequados às necessidades do seu corpo.",
+  "order": 5,
+  "key": "step5",
+  "body": {
+    "raw": "\n# Análise Laboratorial e Avaliação\n\nOs nossos especialistas de laboratório analisarão as suas amostras, incluindo dados de monitorização contínua de glicose, perfil lipídico e análise do microbioma. A sua avaliação nutricional personalizada estará disponível em breve na aplicação, revelando os alimentos mais adequados às necessidades do seu corpo.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var p=Object.create;var n=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var v=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var h=(a,o)=>()=>(o||a((o={exports:{}}).exports,o),o.exports),f=(a,o)=>{for(var s in o)n(a,s,{get:o[s],enumerable:!0})},t=(a,o,s,r)=>{if(o&&typeof o==\"object\"||typeof o==\"function\")for(let i of v(o))!b.call(a,i)&&i!==s&&n(a,i,{get:()=>o[i],enumerable:!(r=u(o,i))||r.enumerable});return a};var _=(a,o,s)=>(s=a!=null?p(x(a)):{},t(o||!a||!a.__esModule?n(s,\"default\",{value:a,enumerable:!0}):s,a)),A=a=>t(n({},\"__esModule\",{value:!0}),a);var d=h((y,l)=>{l.exports=_jsx_runtime});var g={};f(g,{default:()=>m,frontmatter:()=>j});var e=_(d()),j={title:\"An\\xE1lise Laboratorial e Avalia\\xE7\\xE3o\",order:5,key:\"step5\",description:\"Os nossos especialistas de laborat\\xF3rio analisar\\xE3o as suas amostras, incluindo dados de monitoriza\\xE7\\xE3o cont\\xEDnua de glicose, perfil lip\\xEDdico e an\\xE1lise do microbioma. A sua avalia\\xE7\\xE3o nutricional personalizada estar\\xE1 dispon\\xEDvel em breve na aplica\\xE7\\xE3o, revelando os alimentos mais adequados \\xE0s necessidades do seu corpo.\"};function c(a){let o={h1:\"h1\",p:\"p\",...a.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(o.h1,{children:\"An\\xE1lise Laboratorial e Avalia\\xE7\\xE3o\"}),`\n`,(0,e.jsx)(o.p,{children:\"Os nossos especialistas de laborat\\xF3rio analisar\\xE3o as suas amostras, incluindo dados de monitoriza\\xE7\\xE3o cont\\xEDnua de glicose, perfil lip\\xEDdico e an\\xE1lise do microbioma. A sua avalia\\xE7\\xE3o nutricional personalizada estar\\xE1 dispon\\xEDvel em breve na aplica\\xE7\\xE3o, revelando os alimentos mais adequados \\xE0s necessidades do seu corpo.\"}),`\n`,(0,e.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(a={}){let{wrapper:o}=a.components||{};return o?(0,e.jsx)(o,{...a,children:(0,e.jsx)(c,{...a})}):c(a)}return A(g);})();\n;return Component;"
+  },
+  "_id": "steps/step5/pt.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step5/pt.mdx",
+    "sourceFileName": "pt.mdx",
+    "sourceFileDir": "steps/step5",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step5/pt"
+  },
+  "type": "Step",
+  "slug": "step5/pt"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Complete the Questionnaire",
+  "description": "Help us understand your lifestyle and dietary habits by filling out the detailed questionnaire in the app. This is crucial for tailoring your assessment accurately.",
+  "order": 2,
+  "key": "step2",
+  "body": {
+    "raw": "\n# Complete the Questionnaire\n\nHelp us understand your lifestyle and dietary habits by filling out the detailed questionnaire in the app. This is crucial for tailoring your assessment accurately.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var h=Object.create;var s=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var y=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var x=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),_=(e,t)=>{for(var i in t)s(e,i,{get:t[i],enumerable:!0})},o=(e,t,i,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of y(t))!f.call(e,r)&&r!==i&&s(e,r,{get:()=>t[r],enumerable:!(a=p(t,r))||a.enumerable});return e};var g=(e,t,i)=>(i=e!=null?h(m(e)):{},o(t||!e||!e.__esModule?s(i,\"default\",{value:e,enumerable:!0}):i,e)),j=e=>o(s({},\"__esModule\",{value:!0}),e);var u=x((q,l)=>{l.exports=_jsx_runtime});var C={};_(C,{default:()=>d,frontmatter:()=>b});var n=g(u()),b={title:\"Complete the Questionnaire\",order:2,key:\"step2\",description:\"Help us understand your lifestyle and dietary habits by filling out the detailed questionnaire in the app. This is crucial for tailoring your assessment accurately.\"};function c(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.h1,{children:\"Complete the Questionnaire\"}),`\n`,(0,n.jsx)(t.p,{children:\"Help us understand your lifestyle and dietary habits by filling out the detailed questionnaire in the app. This is crucial for tailoring your assessment accurately.\"}),`\n`,(0,n.jsx)(\"userStyle\",{children:\"Normal\"})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(c,{...e})}):c(e)}return j(C);})();\n;return Component;"
+  },
+  "_id": "steps/step2/en.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step2/en.mdx",
+    "sourceFileName": "en.mdx",
+    "sourceFileDir": "steps/step2",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step2/en"
+  },
+  "type": "Step",
+  "slug": "step2/en"
+}

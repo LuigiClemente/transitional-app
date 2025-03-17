@@ -1,0 +1,20 @@
+{
+  "title": "Senden Sie Ihre Proben an das Labor",
+  "description": "Verpacken Sie Ihre gesammelten Proben sorgfältig und senden Sie sie mit dem vorfrankierten Rückumschlag an unser Labor zurück. Dieser Schritt ist entscheidend für Ihre personalisierte Analyse.",
+  "order": 4,
+  "key": "step4",
+  "body": {
+    "raw": "\n# Senden Sie Ihre Proben an das Labor\n\nVerpacken Sie Ihre gesammelten Proben sorgfältig und senden Sie sie mit dem vorfrankierten Rückumschlag an unser Labor zurück. Dieser Schritt ist entscheidend für Ihre personalisierte Analyse.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var l=Object.create;var i=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,S=Object.prototype.hasOwnProperty;var g=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),k=(e,n)=>{for(var t in n)i(e,t,{get:n[t],enumerable:!0})},a=(e,n,t,o)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let s of p(n))!S.call(e,s)&&s!==t&&i(e,s,{get:()=>n[s],enumerable:!(o=u(n,s))||o.enumerable});return e};var x=(e,n,t)=>(t=e!=null?l(f(e)):{},a(n||!e||!e.__esModule?i(t,\"default\",{value:e,enumerable:!0}):t,e)),b=e=>a(i({},\"__esModule\",{value:!0}),e);var d=g((y,c)=>{c.exports=_jsx_runtime});var I={};k(I,{default:()=>m,frontmatter:()=>_});var r=x(d()),_={title:\"Senden Sie Ihre Proben an das Labor\",order:4,key:\"step4\",description:\"Verpacken Sie Ihre gesammelten Proben sorgf\\xE4ltig und senden Sie sie mit dem vorfrankierten R\\xFCckumschlag an unser Labor zur\\xFCck. Dieser Schritt ist entscheidend f\\xFCr Ihre personalisierte Analyse.\"};function h(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(n.h1,{children:\"Senden Sie Ihre Proben an das Labor\"}),`\n`,(0,r.jsx)(n.p,{children:\"Verpacken Sie Ihre gesammelten Proben sorgf\\xE4ltig und senden Sie sie mit dem vorfrankierten R\\xFCckumschlag an unser Labor zur\\xFCck. Dieser Schritt ist entscheidend f\\xFCr Ihre personalisierte Analyse.\"}),`\n`,(0,r.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(e={}){let{wrapper:n}=e.components||{};return n?(0,r.jsx)(n,{...e,children:(0,r.jsx)(h,{...e})}):h(e)}return b(I);})();\n;return Component;"
+  },
+  "_id": "steps/step4/de.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step4/de.mdx",
+    "sourceFileName": "de.mdx",
+    "sourceFileDir": "steps/step4",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step4/de"
+  },
+  "type": "Step",
+  "slug": "step4/de"
+}

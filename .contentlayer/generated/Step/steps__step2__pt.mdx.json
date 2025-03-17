@@ -1,0 +1,20 @@
+{
+  "title": "Complete o Questionário",
+  "description": "Ajude-nos a entender o seu estilo de vida e hábitos alimentares preenchendo o questionário detalhado na aplicação. Isto é crucial para adaptar a sua avaliação com precisão.",
+  "order": 2,
+  "key": "step2",
+  "body": {
+    "raw": "\n# Complete o Questionário\n\nAjude-nos a entender o seu estilo de vida e hábitos alimentares preenchendo o questionário detalhado na aplicação. Isto é crucial para adaptar a sua avaliação com precisão.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var u=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,j=Object.prototype.hasOwnProperty;var _=(e,o)=>()=>(o||e((o={exports:{}}).exports,o),o.exports),f=(e,o)=>{for(var a in o)r(e,a,{get:o[a],enumerable:!0})},i=(e,o,a,s)=>{if(o&&typeof o==\"object\"||typeof o==\"function\")for(let n of h(o))!j.call(e,n)&&n!==a&&r(e,n,{get:()=>o[n],enumerable:!(s=m(o,n))||s.enumerable});return e};var v=(e,o,a)=>(a=e!=null?u(x(e)):{},i(o||!e||!e.__esModule?r(a,\"default\",{value:e,enumerable:!0}):a,e)),C=e=>i(r({},\"__esModule\",{value:!0}),e);var d=_((g,c)=>{c.exports=_jsx_runtime});var M={};f(M,{default:()=>p,frontmatter:()=>y});var t=v(d()),y={title:\"Complete o Question\\xE1rio\",order:2,key:\"step2\",description:\"Ajude-nos a entender o seu estilo de vida e h\\xE1bitos alimentares preenchendo o question\\xE1rio detalhado na aplica\\xE7\\xE3o. Isto \\xE9 crucial para adaptar a sua avalia\\xE7\\xE3o com precis\\xE3o.\"};function l(e){let o={h1:\"h1\",p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(o.h1,{children:\"Complete o Question\\xE1rio\"}),`\n`,(0,t.jsx)(o.p,{children:\"Ajude-nos a entender o seu estilo de vida e h\\xE1bitos alimentares preenchendo o question\\xE1rio detalhado na aplica\\xE7\\xE3o. Isto \\xE9 crucial para adaptar a sua avalia\\xE7\\xE3o com precis\\xE3o.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function p(e={}){let{wrapper:o}=e.components||{};return o?(0,t.jsx)(o,{...e,children:(0,t.jsx)(l,{...e})}):l(e)}return C(M);})();\n;return Component;"
+  },
+  "_id": "steps/step2/pt.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step2/pt.mdx",
+    "sourceFileName": "pt.mdx",
+    "sourceFileDir": "steps/step2",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step2/pt"
+  },
+  "type": "Step",
+  "slug": "step2/pt"
+}

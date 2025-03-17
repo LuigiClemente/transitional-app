@@ -1,0 +1,20 @@
+{
+  "title": "Receba o Seu Kit",
+  "description": "O seu kit de teste personalizado está a caminho! Dentro, encontrará um monitor de glicose, um teste de lípidos por picada no dedo e um kit de amostra de fezes para microbioma. Fique atento à sua chegada em breve.",
+  "order": 1,
+  "key": "step1",
+  "body": {
+    "raw": "\n# Receba o Seu Kit\n\nO seu kit de teste personalizado está a caminho! Dentro, encontrará um monitor de glicose, um teste de lípidos por picada no dedo e um kit de amostra de fezes para microbioma. Fique atento à sua chegada em breve.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var l=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var _=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),b=(e,t)=>{for(var n in t)r(e,n,{get:t[n],enumerable:!0})},i=(e,t,n,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let a of h(t))!f.call(e,a)&&a!==n&&r(e,a,{get:()=>t[a],enumerable:!(s=l(t,a))||s.enumerable});return e};var g=(e,t,n)=>(n=e!=null?p(x(e)):{},i(t||!e||!e.__esModule?r(n,\"default\",{value:e,enumerable:!0}):n,e)),j=e=>i(r({},\"__esModule\",{value:!0}),e);var c=_((F,d)=>{d.exports=_jsx_runtime});var z={};b(z,{default:()=>u,frontmatter:()=>k});var o=g(c()),k={title:\"Receba o Seu Kit\",order:1,key:\"step1\",description:\"O seu kit de teste personalizado est\\xE1 a caminho! Dentro, encontrar\\xE1 um monitor de glicose, um teste de l\\xEDpidos por picada no dedo e um kit de amostra de fezes para microbioma. Fique atento \\xE0 sua chegada em breve.\"};function m(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(t.h1,{children:\"Receba o Seu Kit\"}),`\n`,(0,o.jsx)(t.p,{children:\"O seu kit de teste personalizado est\\xE1 a caminho! Dentro, encontrar\\xE1 um monitor de glicose, um teste de l\\xEDpidos por picada no dedo e um kit de amostra de fezes para microbioma. Fique atento \\xE0 sua chegada em breve.\"}),`\n`,(0,o.jsx)(\"userStyle\",{children:\"Normal\"})]})}function u(e={}){let{wrapper:t}=e.components||{};return t?(0,o.jsx)(t,{...e,children:(0,o.jsx)(m,{...e})}):m(e)}return j(z);})();\n;return Component;"
+  },
+  "_id": "steps/step1/pt.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step1/pt.mdx",
+    "sourceFileName": "pt.mdx",
+    "sourceFileDir": "steps/step1",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step1/pt"
+  },
+  "type": "Step",
+  "slug": "step1/pt"
+}

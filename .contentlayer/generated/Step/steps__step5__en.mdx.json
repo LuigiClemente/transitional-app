@@ -1,0 +1,20 @@
+{
+  "title": "Lab Analysis and Assessment",
+  "description": "Our lab experts will analyse your samples, including continuous glucose monitoring data, lipid profile, and microbiome analysis. Your personalised nutrition assessment will be available shortly in the app, revealing the foods best suited to your body's needs.",
+  "order": 5,
+  "key": "step5",
+  "body": {
+    "raw": "\n# Lab Analysis and Assessment\n\nOur lab experts will analyse your samples, including continuous glucose monitoring data, lipid profile, and microbiome analysis. Your personalised nutrition assessment will be available shortly in the app, revealing the foods best suited to your body's needs.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var m=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var y=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var x=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),g=(e,n)=>{for(var t in n)i(e,t,{get:n[t],enumerable:!0})},r=(e,n,t,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of y(n))!h.call(e,o)&&o!==t&&i(e,o,{get:()=>n[o],enumerable:!(a=p(n,o))||a.enumerable});return e};var f=(e,n,t)=>(t=e!=null?m(b(e)):{},r(n||!e||!e.__esModule?i(t,\"default\",{value:e,enumerable:!0}):t,e)),_=e=>r(i({},\"__esModule\",{value:!0}),e);var d=x((A,l)=>{l.exports=_jsx_runtime});var w={};g(w,{default:()=>c,frontmatter:()=>j});var s=f(d()),j={title:\"Lab Analysis and Assessment\",order:5,key:\"step5\",description:\"Our lab experts will analyse your samples, including continuous glucose monitoring data, lipid profile, and microbiome analysis. Your personalised nutrition assessment will be available shortly in the app, revealing the foods best suited to your body's needs.\"};function u(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(n.h1,{children:\"Lab Analysis and Assessment\"}),`\n`,(0,s.jsx)(n.p,{children:\"Our lab experts will analyse your samples, including continuous glucose monitoring data, lipid profile, and microbiome analysis. Your personalised nutrition assessment will be available shortly in the app, revealing the foods best suited to your body's needs.\"}),`\n`,(0,s.jsx)(\"userStyle\",{children:\"Normal\"})]})}function c(e={}){let{wrapper:n}=e.components||{};return n?(0,s.jsx)(n,{...e,children:(0,s.jsx)(u,{...e})}):u(e)}return _(w);})();\n;return Component;"
+  },
+  "_id": "steps/step5/en.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step5/en.mdx",
+    "sourceFileName": "en.mdx",
+    "sourceFileDir": "steps/step5",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step5/en"
+  },
+  "type": "Step",
+  "slug": "step5/en"
+}

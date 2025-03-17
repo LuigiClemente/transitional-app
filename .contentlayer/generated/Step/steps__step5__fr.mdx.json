@@ -1,0 +1,20 @@
+{
+  "title": "Analyse de Laboratoire et Évaluation",
+  "description": "Nos experts de laboratoire analyseront vos échantillons, y compris les données de surveillance continue du glucose, le profil lipidique et l'analyse du microbiome. Votre évaluation nutritionnelle personnalisée sera bientôt disponible dans l'application, révélant les aliments les mieux adaptés aux besoins de votre corps.",
+  "order": 5,
+  "key": "step5",
+  "body": {
+    "raw": "\n# Analyse de Laboratoire et Évaluation\n\nNos experts de laboratoire analyseront vos échantillons, y compris les données de surveillance continue du glucose, le profil lipidique et l'analyse du microbiome. Votre évaluation nutritionnelle personnalisée sera bientôt disponible dans l'application, révélant les aliments les mieux adaptés aux besoins de votre corps.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var p=Object.create;var i=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,v=Object.prototype.hasOwnProperty;var y=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),h=(e,n)=>{for(var o in n)i(e,o,{get:n[o],enumerable:!0})},l=(e,n,o,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let s of x(n))!v.call(e,s)&&s!==o&&i(e,s,{get:()=>n[s],enumerable:!(a=m(n,s))||a.enumerable});return e};var f=(e,n,o)=>(o=e!=null?p(b(e)):{},l(n||!e||!e.__esModule?i(o,\"default\",{value:e,enumerable:!0}):o,e)),_=e=>l(i({},\"__esModule\",{value:!0}),e);var c=y((M,r)=>{r.exports=_jsx_runtime});var g={};h(g,{default:()=>u,frontmatter:()=>j});var t=f(c()),j={title:\"Analyse de Laboratoire et \\xC9valuation\",order:5,key:\"step5\",description:\"Nos experts de laboratoire analyseront vos \\xE9chantillons, y compris les donn\\xE9es de surveillance continue du glucose, le profil lipidique et l'analyse du microbiome. Votre \\xE9valuation nutritionnelle personnalis\\xE9e sera bient\\xF4t disponible dans l'application, r\\xE9v\\xE9lant les aliments les mieux adapt\\xE9s aux besoins de votre corps.\"};function d(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.h1,{children:\"Analyse de Laboratoire et \\xC9valuation\"}),`\n`,(0,t.jsx)(n.p,{children:\"Nos experts de laboratoire analyseront vos \\xE9chantillons, y compris les donn\\xE9es de surveillance continue du glucose, le profil lipidique et l'analyse du microbiome. Votre \\xE9valuation nutritionnelle personnalis\\xE9e sera bient\\xF4t disponible dans l'application, r\\xE9v\\xE9lant les aliments les mieux adapt\\xE9s aux besoins de votre corps.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function u(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(d,{...e})}):d(e)}return _(g);})();\n;return Component;"
+  },
+  "_id": "steps/step5/fr.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step5/fr.mdx",
+    "sourceFileName": "fr.mdx",
+    "sourceFileDir": "steps/step5",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step5/fr"
+  },
+  "type": "Step",
+  "slug": "step5/fr"
+}

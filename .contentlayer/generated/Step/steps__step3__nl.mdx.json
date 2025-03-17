@@ -1,0 +1,20 @@
+{
+  "title": "Verzamel Uw Monsters",
+  "description": "Volg de instructies in uw kit om uw glucose-, lipiden- en microbioommonsters te verzamelen. Nauwkeurige verzameling zorgt voor de beste resultaten voor uw beoordeling.",
+  "order": 3,
+  "key": "step3",
+  "body": {
+    "raw": "\n# Verzamel Uw Monsters\n\nVolg de instructies in uw kit om uw glucose-, lipiden- en microbioommonsters te verzamelen. Nauwkeurige verzameling zorgt voor de beste resultaten voor uw beoordeling.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var d=Object.create;var s=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var w=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var h=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),v=(e,t)=>{for(var o in t)s(e,o,{get:t[o],enumerable:!0})},l=(e,t,o,i)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of w(t))!x.call(e,r)&&r!==o&&s(e,r,{get:()=>t[r],enumerable:!(i=g(t,r))||i.enumerable});return e};var z=(e,t,o)=>(o=e!=null?d(p(e)):{},l(t||!e||!e.__esModule?s(o,\"default\",{value:e,enumerable:!0}):o,e)),_=e=>l(s({},\"__esModule\",{value:!0}),e);var u=h((k,m)=>{m.exports=_jsx_runtime});var f={};v(f,{default:()=>c,frontmatter:()=>b});var n=z(u()),b={title:\"Verzamel Uw Monsters\",order:3,key:\"step3\",description:\"Volg de instructies in uw kit om uw glucose-, lipiden- en microbioommonsters te verzamelen. Nauwkeurige verzameling zorgt voor de beste resultaten voor uw beoordeling.\"};function a(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.h1,{children:\"Verzamel Uw Monsters\"}),`\n`,(0,n.jsx)(t.p,{children:\"Volg de instructies in uw kit om uw glucose-, lipiden- en microbioommonsters te verzamelen. Nauwkeurige verzameling zorgt voor de beste resultaten voor uw beoordeling.\"}),`\n`,(0,n.jsx)(\"userStyle\",{children:\"Normal\"})]})}function c(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(a,{...e})}):a(e)}return _(f);})();\n;return Component;"
+  },
+  "_id": "steps/step3/nl.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step3/nl.mdx",
+    "sourceFileName": "nl.mdx",
+    "sourceFileDir": "steps/step3",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step3/nl"
+  },
+  "type": "Step",
+  "slug": "step3/nl"
+}

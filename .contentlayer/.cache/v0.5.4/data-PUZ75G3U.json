@@ -1,0 +1,879 @@
+{
+  "cacheItemsMap": {
+    "steps/step1/de.mdx": {
+      "document": {
+        "title": "Erhalten Sie Ihr Kit",
+        "description": "Ihr personalisiertes Testkit ist unterwegs! Darin finden Sie einen Glukosemonitor, einen Lipidtest mit Fingerpikser und ein Stuhlproben-Kit für das Mikrobiom. Achten Sie auf seine baldige Ankunft.",
+        "order": 1,
+        "key": "step1",
+        "body": {
+          "raw": "\n# Erhalten Sie Ihr Kit\n\nIhr personalisiertes Testkit ist unterwegs! Darin finden Sie einen Glukosemonitor, einen Lipidtest mit Fingerpikser und ein Stuhlproben-Kit für das Mikrobiom. Achten Sie auf seine baldige Ankunft.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var c=Object.create;var s=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,k=Object.prototype.hasOwnProperty;var x=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),S=(e,n)=>{for(var i in n)s(e,i,{get:n[i],enumerable:!0})},a=(e,n,i,o)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let r of p(n))!k.call(e,r)&&r!==i&&s(e,r,{get:()=>n[r],enumerable:!(o=m(n,r))||o.enumerable});return e};var g=(e,n,i)=>(i=e!=null?c(f(e)):{},a(n||!e||!e.__esModule?s(i,\"default\",{value:e,enumerable:!0}):i,e)),_=e=>a(s({},\"__esModule\",{value:!0}),e);var d=x((A,u)=>{u.exports=_jsx_runtime});var j={};S(j,{default:()=>h,frontmatter:()=>b});var t=g(d()),b={title:\"Erhalten Sie Ihr Kit\",order:1,key:\"step1\",description:\"Ihr personalisiertes Testkit ist unterwegs! Darin finden Sie einen Glukosemonitor, einen Lipidtest mit Fingerpikser und ein Stuhlproben-Kit f\\xFCr das Mikrobiom. Achten Sie auf seine baldige Ankunft.\"};function l(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.h1,{children:\"Erhalten Sie Ihr Kit\"}),`\n`,(0,t.jsx)(n.p,{children:\"Ihr personalisiertes Testkit ist unterwegs! Darin finden Sie einen Glukosemonitor, einen Lipidtest mit Fingerpikser und ein Stuhlproben-Kit f\\xFCr das Mikrobiom. Achten Sie auf seine baldige Ankunft.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function h(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(l,{...e})}):l(e)}return _(j);})();\n;return Component;"
+        },
+        "_id": "steps/step1/de.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step1/de.mdx",
+          "sourceFileName": "de.mdx",
+          "sourceFileDir": "steps/step1",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step1/de"
+        },
+        "type": "Step",
+        "slug": "step1/de"
+      },
+      "documentHash": "1742138623150",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step1/en.mdx": {
+      "document": {
+        "title": "Receive Your Kit",
+        "description": "Your personalised test kit is on its way! Inside, you'll find a glucose monitor, a finger-prick lipid test, and a microbiome stool sample kit. Look out for its arrival soon.",
+        "order": 1,
+        "key": "step1",
+        "body": {
+          "raw": "\n# Receive Your Kit\n\nYour personalised test kit is on its way! Inside, you'll find a glucose monitor, a finger-prick lipid test, and a microbiome stool sample kit. Look out for its arrival soon.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var u=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var k=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var h=(o,t)=>()=>(t||o((t={exports:{}}).exports,t),t.exports),y=(o,t)=>{for(var i in t)r(o,i,{get:t[i],enumerable:!0})},a=(o,t,i,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let n of f(t))!x.call(o,n)&&n!==i&&r(o,n,{get:()=>t[n],enumerable:!(s=p(t,n))||s.enumerable});return o};var _=(o,t,i)=>(i=o!=null?u(k(o)):{},a(t||!o||!o.__esModule?r(i,\"default\",{value:o,enumerable:!0}):i,o)),g=o=>a(r({},\"__esModule\",{value:!0}),o);var c=h((w,l)=>{l.exports=_jsx_runtime});var v={};y(v,{default:()=>m,frontmatter:()=>j});var e=_(c()),j={title:\"Receive Your Kit\",order:1,key:\"step1\",description:\"Your personalised test kit is on its way! Inside, you'll find a glucose monitor, a finger-prick lipid test, and a microbiome stool sample kit. Look out for its arrival soon.\"};function d(o){let t={h1:\"h1\",p:\"p\",...o.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(t.h1,{children:\"Receive Your Kit\"}),`\n`,(0,e.jsx)(t.p,{children:\"Your personalised test kit is on its way! Inside, you'll find a glucose monitor, a finger-prick lipid test, and a microbiome stool sample kit. Look out for its arrival soon.\"}),`\n`,(0,e.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(o={}){let{wrapper:t}=o.components||{};return t?(0,e.jsx)(t,{...o,children:(0,e.jsx)(d,{...o})}):d(o)}return g(v);})();\n;return Component;"
+        },
+        "_id": "steps/step1/en.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step1/en.mdx",
+          "sourceFileName": "en.mdx",
+          "sourceFileDir": "steps/step1",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step1/en"
+        },
+        "type": "Step",
+        "slug": "step1/en"
+      },
+      "documentHash": "1742138623139",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step1/es.mdx": {
+      "document": {
+        "title": "Recibe Tu Kit",
+        "description": "¡Tu kit de prueba personalizado está en camino! Dentro encontrarás un monitor de glucosa, una prueba de lípidos de punción digital y un kit de muestra de heces para microbioma. Esté atento a su llegada pronto.",
+        "order": 1,
+        "key": "step1",
+        "body": {
+          "raw": "\n# Recibe Tu Kit\n\n¡Tu kit de prueba personalizado está en camino! Dentro encontrarás un monitor de glucosa, una prueba de lípidos de punción digital y un kit de muestra de heces para microbioma. Esté atento a su llegada pronto.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var l=Object.create;var a=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var g=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),_=(e,n)=>{for(var o in n)a(e,o,{get:n[o],enumerable:!0})},s=(e,n,o,i)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let r of h(n))!b.call(e,r)&&r!==o&&a(e,r,{get:()=>n[r],enumerable:!(i=m(n,r))||i.enumerable});return e};var f=(e,n,o)=>(o=e!=null?l(x(e)):{},s(n||!e||!e.__esModule?a(o,\"default\",{value:e,enumerable:!0}):o,e)),j=e=>s(a({},\"__esModule\",{value:!0}),e);var c=g((T,u)=>{u.exports=_jsx_runtime});var y={};_(y,{default:()=>p,frontmatter:()=>k});var t=f(c()),k={title:\"Recibe Tu Kit\",order:1,key:\"step1\",description:\"\\xA1Tu kit de prueba personalizado est\\xE1 en camino! Dentro encontrar\\xE1s un monitor de glucosa, una prueba de l\\xEDpidos de punci\\xF3n digital y un kit de muestra de heces para microbioma. Est\\xE9 atento a su llegada pronto.\"};function d(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.h1,{children:\"Recibe Tu Kit\"}),`\n`,(0,t.jsx)(n.p,{children:\"\\xA1Tu kit de prueba personalizado est\\xE1 en camino! Dentro encontrar\\xE1s un monitor de glucosa, una prueba de l\\xEDpidos de punci\\xF3n digital y un kit de muestra de heces para microbioma. Est\\xE9 atento a su llegada pronto.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function p(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(d,{...e})}):d(e)}return j(y);})();\n;return Component;"
+        },
+        "_id": "steps/step1/es.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step1/es.mdx",
+          "sourceFileName": "es.mdx",
+          "sourceFileDir": "steps/step1",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step1/es"
+        },
+        "type": "Step",
+        "slug": "step1/es"
+      },
+      "documentHash": "1742138623149",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step1/fr.mdx": {
+      "document": {
+        "title": "Recevez Votre Kit",
+        "description": "Votre kit de test personnalisé est en route ! À l'intérieur, vous trouverez un moniteur de glucose, un test lipidique par piqûre au doigt et un kit d'échantillon de selles pour le microbiome. Attendez son arrivée prochainement.",
+        "order": 1,
+        "key": "step1",
+        "body": {
+          "raw": "\n# Recevez Votre Kit\n\nVotre kit de test personnalisé est en route ! À l'intérieur, vous trouverez un moniteur de glucose, un test lipidique par piqûre au doigt et un kit d'échantillon de selles pour le microbiome. Attendez son arrivée prochainement.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var p=Object.create;var i=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,v=Object.prototype.hasOwnProperty;var _=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),g=(e,t)=>{for(var r in t)i(e,r,{get:t[r],enumerable:!0})},u=(e,t,r,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let o of h(t))!v.call(e,o)&&o!==r&&i(e,o,{get:()=>t[o],enumerable:!(s=m(t,o))||s.enumerable});return e};var z=(e,t,r)=>(r=e!=null?p(x(e)):{},u(t||!e||!e.__esModule?i(r,\"default\",{value:e,enumerable:!0}):r,e)),f=e=>u(i({},\"__esModule\",{value:!0}),e);var c=_((V,l)=>{l.exports=_jsx_runtime});var k={};g(k,{default:()=>d,frontmatter:()=>j});var n=z(c()),j={title:\"Recevez Votre Kit\",order:1,key:\"step1\",description:\"Votre kit de test personnalis\\xE9 est en route ! \\xC0 l'int\\xE9rieur, vous trouverez un moniteur de glucose, un test lipidique par piq\\xFBre au doigt et un kit d'\\xE9chantillon de selles pour le microbiome. Attendez son arriv\\xE9e prochainement.\"};function a(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.h1,{children:\"Recevez Votre Kit\"}),`\n`,(0,n.jsx)(t.p,{children:\"Votre kit de test personnalis\\xE9 est en route ! \\xC0 l'int\\xE9rieur, vous trouverez un moniteur de glucose, un test lipidique par piq\\xFBre au doigt et un kit d'\\xE9chantillon de selles pour le microbiome. Attendez son arriv\\xE9e prochainement.\"}),`\n`,(0,n.jsx)(\"userStyle\",{children:\"Normal\"})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(a,{...e})}):a(e)}return f(k);})();\n;return Component;"
+        },
+        "_id": "steps/step1/fr.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step1/fr.mdx",
+          "sourceFileName": "fr.mdx",
+          "sourceFileDir": "steps/step1",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step1/fr"
+        },
+        "type": "Step",
+        "slug": "step1/fr"
+      },
+      "documentHash": "1742176232012",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step1/it.mdx": {
+      "document": {
+        "title": "Ricevi Il Tuo Kit",
+        "description": "Il tuo kit di test personalizzato è in arrivo! All'interno troverai un monitor del glucosio, un test dei lipidi con pungidito e un kit per campioni di feci del microbioma. Attendi il suo arrivo a breve.",
+        "order": 1,
+        "key": "step1",
+        "body": {
+          "raw": "\n# Ricevi Il Tuo Kit\n\nIl tuo kit di test personalizzato è in arrivo! All'interno troverai un monitor del glucosio, un test dei lipidi con pungidito e un kit per campioni di feci del microbioma. Attendi il suo arrivo a breve.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var m=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var v=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var f=(i,t)=>()=>(t||i((t={exports:{}}).exports,t),t.exports),_=(i,t)=>{for(var o in t)r(i,o,{get:t[o],enumerable:!0})},a=(i,t,o,l)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let n of v(t))!h.call(i,n)&&n!==o&&r(i,n,{get:()=>t[n],enumerable:!(l=p(t,n))||l.enumerable});return i};var g=(i,t,o)=>(o=i!=null?m(x(i)):{},a(t||!i||!i.__esModule?r(o,\"default\",{value:i,enumerable:!0}):o,i)),j=i=>a(r({},\"__esModule\",{value:!0}),i);var s=f((A,c)=>{c.exports=_jsx_runtime});var b={};_(b,{default:()=>u,frontmatter:()=>k});var e=g(s()),k={title:\"Ricevi Il Tuo Kit\",order:1,key:\"step1\",description:\"Il tuo kit di test personalizzato \\xE8 in arrivo! All'interno troverai un monitor del glucosio, un test dei lipidi con pungidito e un kit per campioni di feci del microbioma. Attendi il suo arrivo a breve.\"};function d(i){let t={h1:\"h1\",p:\"p\",...i.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(t.h1,{children:\"Ricevi Il Tuo Kit\"}),`\n`,(0,e.jsx)(t.p,{children:\"Il tuo kit di test personalizzato \\xE8 in arrivo! All'interno troverai un monitor del glucosio, un test dei lipidi con pungidito e un kit per campioni di feci del microbioma. Attendi il suo arrivo a breve.\"}),`\n`,(0,e.jsx)(\"userStyle\",{children:\"Normal\"})]})}function u(i={}){let{wrapper:t}=i.components||{};return t?(0,e.jsx)(t,{...i,children:(0,e.jsx)(d,{...i})}):d(i)}return j(b);})();\n;return Component;"
+        },
+        "_id": "steps/step1/it.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step1/it.mdx",
+          "sourceFileName": "it.mdx",
+          "sourceFileDir": "steps/step1",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step1/it"
+        },
+        "type": "Step",
+        "slug": "step1/it"
+      },
+      "documentHash": "1742138623150",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step1/nl.mdx": {
+      "document": {
+        "title": "Ontvang Uw Kit",
+        "description": "Uw gepersonaliseerde testkit is onderweg! Binnenin vindt u een glucosemeter, een vingerprik lipidentest en een microbioom stoelgangmonsterkit. Let op de aankomst binnenkort.",
+        "order": 1,
+        "key": "step1",
+        "body": {
+          "raw": "\n# Ontvang Uw Kit\n\nUw gepersonaliseerde testkit is onderweg! Binnenin vindt u een glucosemeter, een vingerprik lipidentest en een microbioom stoelgangmonsterkit. Let op de aankomst binnenkort.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var k=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var h=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),w=(e,n)=>{for(var i in n)r(e,i,{get:n[i],enumerable:!0})},a=(e,n,i,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of u(n))!x.call(e,o)&&o!==i&&r(e,o,{get:()=>n[o],enumerable:!(s=p(n,o))||s.enumerable});return e};var _=(e,n,i)=>(i=e!=null?g(k(e)):{},a(n||!e||!e.__esModule?r(i,\"default\",{value:e,enumerable:!0}):i,e)),v=e=>a(r({},\"__esModule\",{value:!0}),e);var c=h((U,m)=>{m.exports=_jsx_runtime});var j={};w(j,{default:()=>l,frontmatter:()=>f});var t=_(c()),f={title:\"Ontvang Uw Kit\",order:1,key:\"step1\",description:\"Uw gepersonaliseerde testkit is onderweg! Binnenin vindt u een glucosemeter, een vingerprik lipidentest en een microbioom stoelgangmonsterkit. Let op de aankomst binnenkort.\"};function d(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.h1,{children:\"Ontvang Uw Kit\"}),`\n`,(0,t.jsx)(n.p,{children:\"Uw gepersonaliseerde testkit is onderweg! Binnenin vindt u een glucosemeter, een vingerprik lipidentest en een microbioom stoelgangmonsterkit. Let op de aankomst binnenkort.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function l(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(d,{...e})}):d(e)}return v(j);})();\n;return Component;"
+        },
+        "_id": "steps/step1/nl.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step1/nl.mdx",
+          "sourceFileName": "nl.mdx",
+          "sourceFileDir": "steps/step1",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step1/nl"
+        },
+        "type": "Step",
+        "slug": "step1/nl"
+      },
+      "documentHash": "1742138623150",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step1/pt.mdx": {
+      "document": {
+        "title": "Receba o Seu Kit",
+        "description": "O seu kit de teste personalizado está a caminho! Dentro, encontrará um monitor de glicose, um teste de lípidos por picada no dedo e um kit de amostra de fezes para microbioma. Fique atento à sua chegada em breve.",
+        "order": 1,
+        "key": "step1",
+        "body": {
+          "raw": "\n# Receba o Seu Kit\n\nO seu kit de teste personalizado está a caminho! Dentro, encontrará um monitor de glicose, um teste de lípidos por picada no dedo e um kit de amostra de fezes para microbioma. Fique atento à sua chegada em breve.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var l=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var _=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),b=(e,t)=>{for(var n in t)r(e,n,{get:t[n],enumerable:!0})},i=(e,t,n,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let a of h(t))!f.call(e,a)&&a!==n&&r(e,a,{get:()=>t[a],enumerable:!(s=l(t,a))||s.enumerable});return e};var g=(e,t,n)=>(n=e!=null?p(x(e)):{},i(t||!e||!e.__esModule?r(n,\"default\",{value:e,enumerable:!0}):n,e)),j=e=>i(r({},\"__esModule\",{value:!0}),e);var c=_((F,d)=>{d.exports=_jsx_runtime});var z={};b(z,{default:()=>u,frontmatter:()=>k});var o=g(c()),k={title:\"Receba o Seu Kit\",order:1,key:\"step1\",description:\"O seu kit de teste personalizado est\\xE1 a caminho! Dentro, encontrar\\xE1 um monitor de glicose, um teste de l\\xEDpidos por picada no dedo e um kit de amostra de fezes para microbioma. Fique atento \\xE0 sua chegada em breve.\"};function m(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(t.h1,{children:\"Receba o Seu Kit\"}),`\n`,(0,o.jsx)(t.p,{children:\"O seu kit de teste personalizado est\\xE1 a caminho! Dentro, encontrar\\xE1 um monitor de glicose, um teste de l\\xEDpidos por picada no dedo e um kit de amostra de fezes para microbioma. Fique atento \\xE0 sua chegada em breve.\"}),`\n`,(0,o.jsx)(\"userStyle\",{children:\"Normal\"})]})}function u(e={}){let{wrapper:t}=e.components||{};return t?(0,o.jsx)(t,{...e,children:(0,o.jsx)(m,{...e})}):m(e)}return j(z);})();\n;return Component;"
+        },
+        "_id": "steps/step1/pt.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step1/pt.mdx",
+          "sourceFileName": "pt.mdx",
+          "sourceFileDir": "steps/step1",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step1/pt"
+        },
+        "type": "Step",
+        "slug": "step1/pt"
+      },
+      "documentHash": "1742138623150",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step2/de.mdx": {
+      "document": {
+        "title": "Füllen Sie den Fragebogen aus",
+        "description": "Helfen Sie uns, Ihren Lebensstil und Ihre Ernährungsgewohnheiten zu verstehen, indem Sie den detaillierten Fragebogen in der App ausfüllen. Dies ist entscheidend für die genaue Anpassung Ihrer Bewertung.",
+        "order": 2,
+        "key": "step2",
+        "body": {
+          "raw": "\n# Füllen Sie den Fragebogen aus\n\nHelfen Sie uns, Ihren Lebensstil und Ihre Ernährungsgewohnheiten zu verstehen, indem Sie den detaillierten Fragebogen in der App ausfüllen. Dies ist entscheidend für die genaue Anpassung Ihrer Bewertung.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var g=Object.create;var i=Object.defineProperty;var c=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var x=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),F=(e,n)=>{for(var t in n)i(e,t,{get:n[t],enumerable:!0})},o=(e,n,t,d)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let s of p(n))!f.call(e,s)&&s!==t&&i(e,s,{get:()=>n[s],enumerable:!(d=c(n,s))||d.enumerable});return e};var S=(e,n,t)=>(t=e!=null?g(m(e)):{},o(n||!e||!e.__esModule?i(t,\"default\",{value:e,enumerable:!0}):t,e)),_=e=>o(i({},\"__esModule\",{value:!0}),e);var a=x((w,u)=>{u.exports=_jsx_runtime});var I={};F(I,{default:()=>h,frontmatter:()=>b});var r=S(a()),b={title:\"F\\xFCllen Sie den Fragebogen aus\",order:2,key:\"step2\",description:\"Helfen Sie uns, Ihren Lebensstil und Ihre Ern\\xE4hrungsgewohnheiten zu verstehen, indem Sie den detaillierten Fragebogen in der App ausf\\xFCllen. Dies ist entscheidend f\\xFCr die genaue Anpassung Ihrer Bewertung.\"};function l(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(n.h1,{children:\"F\\xFCllen Sie den Fragebogen aus\"}),`\n`,(0,r.jsx)(n.p,{children:\"Helfen Sie uns, Ihren Lebensstil und Ihre Ern\\xE4hrungsgewohnheiten zu verstehen, indem Sie den detaillierten Fragebogen in der App ausf\\xFCllen. Dies ist entscheidend f\\xFCr die genaue Anpassung Ihrer Bewertung.\"}),`\n`,(0,r.jsx)(\"userStyle\",{children:\"Normal\"})]})}function h(e={}){let{wrapper:n}=e.components||{};return n?(0,r.jsx)(n,{...e,children:(0,r.jsx)(l,{...e})}):l(e)}return _(I);})();\n;return Component;"
+        },
+        "_id": "steps/step2/de.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step2/de.mdx",
+          "sourceFileName": "de.mdx",
+          "sourceFileDir": "steps/step2",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step2/de"
+        },
+        "type": "Step",
+        "slug": "step2/de"
+      },
+      "documentHash": "1742138623154",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step2/en.mdx": {
+      "document": {
+        "title": "Complete the Questionnaire",
+        "description": "Help us understand your lifestyle and dietary habits by filling out the detailed questionnaire in the app. This is crucial for tailoring your assessment accurately.",
+        "order": 2,
+        "key": "step2",
+        "body": {
+          "raw": "\n# Complete the Questionnaire\n\nHelp us understand your lifestyle and dietary habits by filling out the detailed questionnaire in the app. This is crucial for tailoring your assessment accurately.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var h=Object.create;var s=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var y=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var x=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),_=(e,t)=>{for(var i in t)s(e,i,{get:t[i],enumerable:!0})},o=(e,t,i,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of y(t))!f.call(e,r)&&r!==i&&s(e,r,{get:()=>t[r],enumerable:!(a=p(t,r))||a.enumerable});return e};var g=(e,t,i)=>(i=e!=null?h(m(e)):{},o(t||!e||!e.__esModule?s(i,\"default\",{value:e,enumerable:!0}):i,e)),j=e=>o(s({},\"__esModule\",{value:!0}),e);var u=x((q,l)=>{l.exports=_jsx_runtime});var C={};_(C,{default:()=>d,frontmatter:()=>b});var n=g(u()),b={title:\"Complete the Questionnaire\",order:2,key:\"step2\",description:\"Help us understand your lifestyle and dietary habits by filling out the detailed questionnaire in the app. This is crucial for tailoring your assessment accurately.\"};function c(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.h1,{children:\"Complete the Questionnaire\"}),`\n`,(0,n.jsx)(t.p,{children:\"Help us understand your lifestyle and dietary habits by filling out the detailed questionnaire in the app. This is crucial for tailoring your assessment accurately.\"}),`\n`,(0,n.jsx)(\"userStyle\",{children:\"Normal\"})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(c,{...e})}):c(e)}return j(C);})();\n;return Component;"
+        },
+        "_id": "steps/step2/en.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step2/en.mdx",
+          "sourceFileName": "en.mdx",
+          "sourceFileDir": "steps/step2",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step2/en"
+        },
+        "type": "Step",
+        "slug": "step2/en"
+      },
+      "documentHash": "1742138623151",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step2/es.mdx": {
+      "document": {
+        "title": "Completa el Cuestionario",
+        "description": "Ayúdanos a comprender tu estilo de vida y hábitos alimenticios completando el cuestionario detallado en la aplicación. Esto es crucial para adaptar tu evaluación con precisión.",
+        "order": 2,
+        "key": "step2",
+        "body": {
+          "raw": "\n# Completa el Cuestionario\n\nAyúdanos a comprender tu estilo de vida y hábitos alimenticios completando el cuestionario detallado en la aplicación. Esto es crucial para adaptar tu evaluación con precisión.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var u=Object.create;var i=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var _=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),C=(e,t)=>{for(var n in t)i(e,n,{get:t[n],enumerable:!0})},c=(e,t,n,r)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let o of h(t))!y.call(e,o)&&o!==n&&i(e,o,{get:()=>t[o],enumerable:!(r=m(t,o))||r.enumerable});return e};var f=(e,t,n)=>(n=e!=null?u(x(e)):{},c(t||!e||!e.__esModule?i(n,\"default\",{value:e,enumerable:!0}):n,e)),j=e=>c(i({},\"__esModule\",{value:!0}),e);var l=_((g,s)=>{s.exports=_jsx_runtime});var M={};C(M,{default:()=>p,frontmatter:()=>v});var a=f(l()),v={title:\"Completa el Cuestionario\",order:2,key:\"step2\",description:\"Ay\\xFAdanos a comprender tu estilo de vida y h\\xE1bitos alimenticios completando el cuestionario detallado en la aplicaci\\xF3n. Esto es crucial para adaptar tu evaluaci\\xF3n con precisi\\xF3n.\"};function d(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(t.h1,{children:\"Completa el Cuestionario\"}),`\n`,(0,a.jsx)(t.p,{children:\"Ay\\xFAdanos a comprender tu estilo de vida y h\\xE1bitos alimenticios completando el cuestionario detallado en la aplicaci\\xF3n. Esto es crucial para adaptar tu evaluaci\\xF3n con precisi\\xF3n.\"}),`\n`,(0,a.jsx)(\"userStyle\",{children:\"Normal\"})]})}function p(e={}){let{wrapper:t}=e.components||{};return t?(0,a.jsx)(t,{...e,children:(0,a.jsx)(d,{...e})}):d(e)}return j(M);})();\n;return Component;"
+        },
+        "_id": "steps/step2/es.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step2/es.mdx",
+          "sourceFileName": "es.mdx",
+          "sourceFileDir": "steps/step2",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step2/es"
+        },
+        "type": "Step",
+        "slug": "step2/es"
+      },
+      "documentHash": "1742138623151",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step2/fr.mdx": {
+      "document": {
+        "title": "Complétez le Questionnaire",
+        "description": "Aidez-nous à comprendre votre mode de vie et vos habitudes alimentaires en remplissant le questionnaire détaillé dans l'application. C'est crucial pour adapter précisément votre évaluation.",
+        "order": 2,
+        "key": "step2",
+        "body": {
+          "raw": "\n# Complétez le Questionnaire\n\nAidez-nous à comprendre votre mode de vie et vos habitudes alimentaires en remplissant le questionnaire détaillé dans l'application. C'est crucial pour adapter précisément votre évaluation.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var m=Object.create;var o=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var v=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var _=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),C=(e,t)=>{for(var r in t)o(e,r,{get:t[r],enumerable:!0})},s=(e,t,r,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let i of h(t))!x.call(e,i)&&i!==r&&o(e,i,{get:()=>t[i],enumerable:!(a=u(t,i))||a.enumerable});return e};var f=(e,t,r)=>(r=e!=null?m(v(e)):{},s(t||!e||!e.__esModule?o(r,\"default\",{value:e,enumerable:!0}):r,e)),j=e=>s(o({},\"__esModule\",{value:!0}),e);var c=_((b,l)=>{l.exports=_jsx_runtime});var y={};C(y,{default:()=>p,frontmatter:()=>z});var n=f(c()),z={title:\"Compl\\xE9tez le Questionnaire\",order:2,key:\"step2\",description:\"Aidez-nous \\xE0 comprendre votre mode de vie et vos habitudes alimentaires en remplissant le questionnaire d\\xE9taill\\xE9 dans l'application. C'est crucial pour adapter pr\\xE9cis\\xE9ment votre \\xE9valuation.\"};function d(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.h1,{children:\"Compl\\xE9tez le Questionnaire\"}),`\n`,(0,n.jsx)(t.p,{children:\"Aidez-nous \\xE0 comprendre votre mode de vie et vos habitudes alimentaires en remplissant le questionnaire d\\xE9taill\\xE9 dans l'application. C'est crucial pour adapter pr\\xE9cis\\xE9ment votre \\xE9valuation.\"}),`\n`,(0,n.jsx)(\"userStyle\",{children:\"Normal\"})]})}function p(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(d,{...e})}):d(e)}return j(y);})();\n;return Component;"
+        },
+        "_id": "steps/step2/fr.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step2/fr.mdx",
+          "sourceFileName": "fr.mdx",
+          "sourceFileDir": "steps/step2",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step2/fr"
+        },
+        "type": "Step",
+        "slug": "step2/fr"
+      },
+      "documentHash": "1742138623151",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step2/it.mdx": {
+      "document": {
+        "title": "Compila il Questionario",
+        "description": "Aiutaci a capire il tuo stile di vita e le tue abitudini alimentari compilando il questionario dettagliato nell'app. Questo è fondamentale per personalizzare accuratamente la tua valutazione.",
+        "order": 2,
+        "key": "step2",
+        "body": {
+          "raw": "\n# Compila il Questionario\n\nAiutaci a capire il tuo stile di vita e le tue abitudini alimentari compilando il questionario dettagliato nell'app. Questo è fondamentale per personalizzare accuratamente la tua valutazione.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var m=Object.create;var o=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var _=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),z=(e,t)=>{for(var i in t)o(e,i,{get:t[i],enumerable:!0})},l=(e,t,i,r)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let n of x(t))!f.call(e,n)&&n!==i&&o(e,n,{get:()=>t[n],enumerable:!(r=d(t,n))||r.enumerable});return e};var j=(e,t,i)=>(i=e!=null?m(h(e)):{},l(t||!e||!e.__esModule?o(i,\"default\",{value:e,enumerable:!0}):i,e)),g=e=>l(o({},\"__esModule\",{value:!0}),e);var s=_((y,u)=>{u.exports=_jsx_runtime});var C={};z(C,{default:()=>p,frontmatter:()=>v});var a=j(s()),v={title:\"Compila il Questionario\",order:2,key:\"step2\",description:\"Aiutaci a capire il tuo stile di vita e le tue abitudini alimentari compilando il questionario dettagliato nell'app. Questo \\xE8 fondamentale per personalizzare accuratamente la tua valutazione.\"};function c(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(t.h1,{children:\"Compila il Questionario\"}),`\n`,(0,a.jsx)(t.p,{children:\"Aiutaci a capire il tuo stile di vita e le tue abitudini alimentari compilando il questionario dettagliato nell'app. Questo \\xE8 fondamentale per personalizzare accuratamente la tua valutazione.\"}),`\n`,(0,a.jsx)(\"userStyle\",{children:\"Normal\"})]})}function p(e={}){let{wrapper:t}=e.components||{};return t?(0,a.jsx)(t,{...e,children:(0,a.jsx)(c,{...e})}):c(e)}return g(C);})();\n;return Component;"
+        },
+        "_id": "steps/step2/it.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step2/it.mdx",
+          "sourceFileName": "it.mdx",
+          "sourceFileDir": "steps/step2",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step2/it"
+        },
+        "type": "Step",
+        "slug": "step2/it"
+      },
+      "documentHash": "1742138623154",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step2/nl.mdx": {
+      "document": {
+        "title": "Vul de Vragenlijst In",
+        "description": "Help ons uw levensstijl en voedingsgewoonten te begrijpen door de gedetailleerde vragenlijst in de app in te vullen. Dit is cruciaal voor het nauwkeurig afstemmen van uw beoordeling.",
+        "order": 2,
+        "key": "step2",
+        "body": {
+          "raw": "\n# Vul de Vragenlijst In\n\nHelp ons uw levensstijl en voedingsgewoonten te begrijpen door de gedetailleerde vragenlijst in de app in te vullen. Dit is cruciaal voor het nauwkeurig afstemmen van uw beoordeling.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var g=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var j=Object.getPrototypeOf,v=Object.prototype.hasOwnProperty;var h=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),w=(e,n)=>{for(var r in n)i(e,r,{get:n[r],enumerable:!0})},s=(e,n,r,l)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of m(n))!v.call(e,o)&&o!==r&&i(e,o,{get:()=>n[o],enumerable:!(l=p(n,o))||l.enumerable});return e};var x=(e,n,r)=>(r=e!=null?g(j(e)):{},s(n||!e||!e.__esModule?i(r,\"default\",{value:e,enumerable:!0}):r,e)),f=e=>s(i({},\"__esModule\",{value:!0}),e);var d=h((V,a)=>{a.exports=_jsx_runtime});var b={};w(b,{default:()=>c,frontmatter:()=>_});var t=x(d()),_={title:\"Vul de Vragenlijst In\",order:2,key:\"step2\",description:\"Help ons uw levensstijl en voedingsgewoonten te begrijpen door de gedetailleerde vragenlijst in de app in te vullen. Dit is cruciaal voor het nauwkeurig afstemmen van uw beoordeling.\"};function u(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.h1,{children:\"Vul de Vragenlijst In\"}),`\n`,(0,t.jsx)(n.p,{children:\"Help ons uw levensstijl en voedingsgewoonten te begrijpen door de gedetailleerde vragenlijst in de app in te vullen. Dit is cruciaal voor het nauwkeurig afstemmen van uw beoordeling.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function c(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(u,{...e})}):u(e)}return f(b);})();\n;return Component;"
+        },
+        "_id": "steps/step2/nl.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step2/nl.mdx",
+          "sourceFileName": "nl.mdx",
+          "sourceFileDir": "steps/step2",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step2/nl"
+        },
+        "type": "Step",
+        "slug": "step2/nl"
+      },
+      "documentHash": "1742138623153",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step2/pt.mdx": {
+      "document": {
+        "title": "Complete o Questionário",
+        "description": "Ajude-nos a entender o seu estilo de vida e hábitos alimentares preenchendo o questionário detalhado na aplicação. Isto é crucial para adaptar a sua avaliação com precisão.",
+        "order": 2,
+        "key": "step2",
+        "body": {
+          "raw": "\n# Complete o Questionário\n\nAjude-nos a entender o seu estilo de vida e hábitos alimentares preenchendo o questionário detalhado na aplicação. Isto é crucial para adaptar a sua avaliação com precisão.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var u=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,j=Object.prototype.hasOwnProperty;var _=(e,o)=>()=>(o||e((o={exports:{}}).exports,o),o.exports),f=(e,o)=>{for(var a in o)r(e,a,{get:o[a],enumerable:!0})},i=(e,o,a,s)=>{if(o&&typeof o==\"object\"||typeof o==\"function\")for(let n of h(o))!j.call(e,n)&&n!==a&&r(e,n,{get:()=>o[n],enumerable:!(s=m(o,n))||s.enumerable});return e};var v=(e,o,a)=>(a=e!=null?u(x(e)):{},i(o||!e||!e.__esModule?r(a,\"default\",{value:e,enumerable:!0}):a,e)),C=e=>i(r({},\"__esModule\",{value:!0}),e);var d=_((g,c)=>{c.exports=_jsx_runtime});var M={};f(M,{default:()=>p,frontmatter:()=>y});var t=v(d()),y={title:\"Complete o Question\\xE1rio\",order:2,key:\"step2\",description:\"Ajude-nos a entender o seu estilo de vida e h\\xE1bitos alimentares preenchendo o question\\xE1rio detalhado na aplica\\xE7\\xE3o. Isto \\xE9 crucial para adaptar a sua avalia\\xE7\\xE3o com precis\\xE3o.\"};function l(e){let o={h1:\"h1\",p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(o.h1,{children:\"Complete o Question\\xE1rio\"}),`\n`,(0,t.jsx)(o.p,{children:\"Ajude-nos a entender o seu estilo de vida e h\\xE1bitos alimentares preenchendo o question\\xE1rio detalhado na aplica\\xE7\\xE3o. Isto \\xE9 crucial para adaptar a sua avalia\\xE7\\xE3o com precis\\xE3o.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function p(e={}){let{wrapper:o}=e.components||{};return o?(0,t.jsx)(o,{...e,children:(0,t.jsx)(l,{...e})}):l(e)}return C(M);})();\n;return Component;"
+        },
+        "_id": "steps/step2/pt.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step2/pt.mdx",
+          "sourceFileName": "pt.mdx",
+          "sourceFileDir": "steps/step2",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step2/pt"
+        },
+        "type": "Step",
+        "slug": "step2/pt"
+      },
+      "documentHash": "1742138623153",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step4/de.mdx": {
+      "document": {
+        "title": "Senden Sie Ihre Proben an das Labor",
+        "description": "Verpacken Sie Ihre gesammelten Proben sorgfältig und senden Sie sie mit dem vorfrankierten Rückumschlag an unser Labor zurück. Dieser Schritt ist entscheidend für Ihre personalisierte Analyse.",
+        "order": 4,
+        "key": "step4",
+        "body": {
+          "raw": "\n# Senden Sie Ihre Proben an das Labor\n\nVerpacken Sie Ihre gesammelten Proben sorgfältig und senden Sie sie mit dem vorfrankierten Rückumschlag an unser Labor zurück. Dieser Schritt ist entscheidend für Ihre personalisierte Analyse.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var l=Object.create;var i=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,S=Object.prototype.hasOwnProperty;var g=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),k=(e,n)=>{for(var t in n)i(e,t,{get:n[t],enumerable:!0})},a=(e,n,t,o)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let s of p(n))!S.call(e,s)&&s!==t&&i(e,s,{get:()=>n[s],enumerable:!(o=u(n,s))||o.enumerable});return e};var x=(e,n,t)=>(t=e!=null?l(f(e)):{},a(n||!e||!e.__esModule?i(t,\"default\",{value:e,enumerable:!0}):t,e)),b=e=>a(i({},\"__esModule\",{value:!0}),e);var d=g((y,c)=>{c.exports=_jsx_runtime});var I={};k(I,{default:()=>m,frontmatter:()=>_});var r=x(d()),_={title:\"Senden Sie Ihre Proben an das Labor\",order:4,key:\"step4\",description:\"Verpacken Sie Ihre gesammelten Proben sorgf\\xE4ltig und senden Sie sie mit dem vorfrankierten R\\xFCckumschlag an unser Labor zur\\xFCck. Dieser Schritt ist entscheidend f\\xFCr Ihre personalisierte Analyse.\"};function h(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(n.h1,{children:\"Senden Sie Ihre Proben an das Labor\"}),`\n`,(0,r.jsx)(n.p,{children:\"Verpacken Sie Ihre gesammelten Proben sorgf\\xE4ltig und senden Sie sie mit dem vorfrankierten R\\xFCckumschlag an unser Labor zur\\xFCck. Dieser Schritt ist entscheidend f\\xFCr Ihre personalisierte Analyse.\"}),`\n`,(0,r.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(e={}){let{wrapper:n}=e.components||{};return n?(0,r.jsx)(n,{...e,children:(0,r.jsx)(h,{...e})}):h(e)}return b(I);})();\n;return Component;"
+        },
+        "_id": "steps/step4/de.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step4/de.mdx",
+          "sourceFileName": "de.mdx",
+          "sourceFileDir": "steps/step4",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step4/de"
+        },
+        "type": "Step",
+        "slug": "step4/de"
+      },
+      "documentHash": "1742138623156",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step4/en.mdx": {
+      "document": {
+        "title": "Send Your Samples to the Lab",
+        "description": "Carefully package your collected samples and send them back to our lab using the pre-paid return envelope. This step is vital for your personalised analysis.",
+        "order": 4,
+        "key": "step4",
+        "body": {
+          "raw": "\n# Send Your Samples to the Lab\n\nCarefully package your collected samples and send them back to our lab using the pre-paid return envelope. This step is vital for your personalised analysis.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var d=Object.create;var o=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var y=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var x=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),_=(e,t)=>{for(var r in t)o(e,r,{get:t[r],enumerable:!0})},l=(e,t,r,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let s of m(t))!f.call(e,s)&&s!==r&&o(e,s,{get:()=>t[s],enumerable:!(a=h(t,s))||a.enumerable});return e};var b=(e,t,r)=>(r=e!=null?d(y(e)):{},l(t||!e||!e.__esModule?o(r,\"default\",{value:e,enumerable:!0}):r,e)),g=e=>l(o({},\"__esModule\",{value:!0}),e);var p=x((v,i)=>{i.exports=_jsx_runtime});var k={};_(k,{default:()=>u,frontmatter:()=>j});var n=b(p()),j={title:\"Send Your Samples to the Lab\",order:4,key:\"step4\",description:\"Carefully package your collected samples and send them back to our lab using the pre-paid return envelope. This step is vital for your personalised analysis.\"};function c(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.h1,{children:\"Send Your Samples to the Lab\"}),`\n`,(0,n.jsx)(t.p,{children:\"Carefully package your collected samples and send them back to our lab using the pre-paid return envelope. This step is vital for your personalised analysis.\"}),`\n`,(0,n.jsx)(\"userStyle\",{children:\"Normal\"})]})}function u(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(c,{...e})}):c(e)}return g(k);})();\n;return Component;"
+        },
+        "_id": "steps/step4/en.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step4/en.mdx",
+          "sourceFileName": "en.mdx",
+          "sourceFileDir": "steps/step4",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step4/en"
+        },
+        "type": "Step",
+        "slug": "step4/en"
+      },
+      "documentHash": "1742138623155",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step4/es.mdx": {
+      "document": {
+        "title": "Envía Tus Muestras al Laboratorio",
+        "description": "Empaca cuidadosamente tus muestras recolectadas y envíalas de vuelta a nuestro laboratorio utilizando el sobre de devolución prepagado. Este paso es vital para tu análisis personalizado.",
+        "order": 4,
+        "key": "step4",
+        "body": {
+          "raw": "\n# Envía Tus Muestras al Laboratorio\n\nEmpaca cuidadosamente tus muestras recolectadas y envíalas de vuelta a nuestro laboratorio utilizando el sobre de devolución prepagado. Este paso es vital para tu análisis personalizado.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var v=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var _=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),b=(a,e)=>{for(var o in e)r(a,o,{get:e[o],enumerable:!0})},i=(a,e,o,n)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of v(e))!h.call(a,s)&&s!==o&&r(a,s,{get:()=>e[s],enumerable:!(n=m(e,s))||n.enumerable});return a};var E=(a,e,o)=>(o=a!=null?p(x(a)):{},i(e||!a||!a.__esModule?r(o,\"default\",{value:a,enumerable:!0}):o,a)),f=a=>i(r({},\"__esModule\",{value:!0}),a);var u=_((g,l)=>{l.exports=_jsx_runtime});var y={};b(y,{default:()=>c,frontmatter:()=>j});var t=E(u()),j={title:\"Env\\xEDa Tus Muestras al Laboratorio\",order:4,key:\"step4\",description:\"Empaca cuidadosamente tus muestras recolectadas y env\\xEDalas de vuelta a nuestro laboratorio utilizando el sobre de devoluci\\xF3n prepagado. Este paso es vital para tu an\\xE1lisis personalizado.\"};function d(a){let e={h1:\"h1\",p:\"p\",...a.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.h1,{children:\"Env\\xEDa Tus Muestras al Laboratorio\"}),`\n`,(0,t.jsx)(e.p,{children:\"Empaca cuidadosamente tus muestras recolectadas y env\\xEDalas de vuelta a nuestro laboratorio utilizando el sobre de devoluci\\xF3n prepagado. Este paso es vital para tu an\\xE1lisis personalizado.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function c(a={}){let{wrapper:e}=a.components||{};return e?(0,t.jsx)(e,{...a,children:(0,t.jsx)(d,{...a})}):d(a)}return f(y);})();\n;return Component;"
+        },
+        "_id": "steps/step4/es.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step4/es.mdx",
+          "sourceFileName": "es.mdx",
+          "sourceFileDir": "steps/step4",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step4/es"
+        },
+        "type": "Step",
+        "slug": "step4/es"
+      },
+      "documentHash": "1742138623156",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step4/fr.mdx": {
+      "document": {
+        "title": "Envoyez Vos Échantillons au Laboratoire",
+        "description": "Emballez soigneusement vos échantillons collectés et renvoyez-les à notre laboratoire en utilisant l'enveloppe de retour prépayée. Cette étape est vitale pour votre analyse personnalisée.",
+        "order": 4,
+        "key": "step4",
+        "body": {
+          "raw": "\n# Envoyez Vos Échantillons au Laboratoire\n\nEmballez soigneusement vos échantillons collectés et renvoyez-les à notre laboratoire en utilisant l'enveloppe de retour prépayée. Cette étape est vitale pour votre analyse personnalisée.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var m=Object.create;var s=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var v=Object.getOwnPropertyNames;var d=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var x=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),_=(e,t)=>{for(var o in t)s(e,o,{get:t[o],enumerable:!0})},l=(e,t,o,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of v(t))!y.call(e,r)&&r!==o&&s(e,r,{get:()=>t[r],enumerable:!(a=h(t,r))||a.enumerable});return e};var b=(e,t,o)=>(o=e!=null?m(d(e)):{},l(t||!e||!e.__esModule?s(o,\"default\",{value:e,enumerable:!0}):o,e)),z=e=>l(s({},\"__esModule\",{value:!0}),e);var c=x((C,i)=>{i.exports=_jsx_runtime});var j={};_(j,{default:()=>u,frontmatter:()=>f});var n=b(c()),f={title:\"Envoyez Vos \\xC9chantillons au Laboratoire\",order:4,key:\"step4\",description:\"Emballez soigneusement vos \\xE9chantillons collect\\xE9s et renvoyez-les \\xE0 notre laboratoire en utilisant l'enveloppe de retour pr\\xE9pay\\xE9e. Cette \\xE9tape est vitale pour votre analyse personnalis\\xE9e.\"};function p(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.h1,{children:\"Envoyez Vos \\xC9chantillons au Laboratoire\"}),`\n`,(0,n.jsx)(t.p,{children:\"Emballez soigneusement vos \\xE9chantillons collect\\xE9s et renvoyez-les \\xE0 notre laboratoire en utilisant l'enveloppe de retour pr\\xE9pay\\xE9e. Cette \\xE9tape est vitale pour votre analyse personnalis\\xE9e.\"}),`\n`,(0,n.jsx)(\"userStyle\",{children:\"Normal\"})]})}function u(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(p,{...e})}):p(e)}return z(j);})();\n;return Component;"
+        },
+        "_id": "steps/step4/fr.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step4/fr.mdx",
+          "sourceFileName": "fr.mdx",
+          "sourceFileDir": "steps/step4",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step4/fr"
+        },
+        "type": "Step",
+        "slug": "step4/fr"
+      },
+      "documentHash": "1742138623155",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step4/it.mdx": {
+      "document": {
+        "title": "Invia I Tuoi Campioni al Laboratorio",
+        "description": "Confeziona con cura i campioni raccolti e rispediscili al nostro laboratorio utilizzando la busta di ritorno prepagata. Questo passaggio è vitale per la tua analisi personalizzata.",
+        "order": 4,
+        "key": "step4",
+        "body": {
+          "raw": "\n# Invia I Tuoi Campioni al Laboratorio\n\nConfeziona con cura i campioni raccolti e rispediscili al nostro laboratorio utilizzando la busta di ritorno prepagata. Questo passaggio è vitale per la tua analisi personalizzata.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var d=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var z=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var h=(a,o)=>()=>(o||a((o={exports:{}}).exports,o),o.exports),f=(a,o)=>{for(var t in o)r(a,t,{get:o[t],enumerable:!0})},s=(a,o,t,e)=>{if(o&&typeof o==\"object\"||typeof o==\"function\")for(let n of z(o))!g.call(a,n)&&n!==t&&r(a,n,{get:()=>o[n],enumerable:!(e=m(o,n))||e.enumerable});return a};var _=(a,o,t)=>(t=a!=null?d(x(a)):{},s(o||!a||!a.__esModule?r(t,\"default\",{value:a,enumerable:!0}):t,a)),b=a=>s(r({},\"__esModule\",{value:!0}),a);var c=h((I,l)=>{l.exports=_jsx_runtime});var j={};f(j,{default:()=>u,frontmatter:()=>C});var i=_(c()),C={title:\"Invia I Tuoi Campioni al Laboratorio\",order:4,key:\"step4\",description:\"Confeziona con cura i campioni raccolti e rispediscili al nostro laboratorio utilizzando la busta di ritorno prepagata. Questo passaggio \\xE8 vitale per la tua analisi personalizzata.\"};function p(a){let o={h1:\"h1\",p:\"p\",...a.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(o.h1,{children:\"Invia I Tuoi Campioni al Laboratorio\"}),`\n`,(0,i.jsx)(o.p,{children:\"Confeziona con cura i campioni raccolti e rispediscili al nostro laboratorio utilizzando la busta di ritorno prepagata. Questo passaggio \\xE8 vitale per la tua analisi personalizzata.\"}),`\n`,(0,i.jsx)(\"userStyle\",{children:\"Normal\"})]})}function u(a={}){let{wrapper:o}=a.components||{};return o?(0,i.jsx)(o,{...a,children:(0,i.jsx)(p,{...a})}):p(a)}return b(j);})();\n;return Component;"
+        },
+        "_id": "steps/step4/it.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step4/it.mdx",
+          "sourceFileName": "it.mdx",
+          "sourceFileDir": "steps/step4",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step4/it"
+        },
+        "type": "Step",
+        "slug": "step4/it"
+      },
+      "documentHash": "1742138623156",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step4/nl.mdx": {
+      "document": {
+        "title": "Stuur Uw Monsters naar het Lab",
+        "description": "Verpak zorgvuldig uw verzamelde monsters en stuur ze terug naar ons laboratorium met behulp van de vooraf betaalde retourenvelop. Deze stap is essentieel voor uw gepersonaliseerde analyse.",
+        "order": 4,
+        "key": "step4",
+        "body": {
+          "raw": "\n# Stuur Uw Monsters naar het Lab\n\nVerpak zorgvuldig uw verzamelde monsters en stuur ze terug naar ons laboratorium met behulp van de vooraf betaalde retourenvelop. Deze stap is essentieel voor uw gepersonaliseerde analyse.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var p=Object.create;var a=Object.defineProperty;var c=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var v=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var x=(e,r)=>()=>(r||e((r={exports:{}}).exports,r),r.exports),b=(e,r)=>{for(var n in r)a(e,n,{get:r[n],enumerable:!0})},u=(e,r,n,s)=>{if(r&&typeof r==\"object\"||typeof r==\"function\")for(let o of h(r))!g.call(e,o)&&o!==n&&a(e,o,{get:()=>r[o],enumerable:!(s=c(r,o))||s.enumerable});return e};var z=(e,r,n)=>(n=e!=null?p(v(e)):{},u(r||!e||!e.__esModule?a(n,\"default\",{value:e,enumerable:!0}):n,e)),f=e=>u(a({},\"__esModule\",{value:!0}),e);var i=x((y,l)=>{l.exports=_jsx_runtime});var _={};b(_,{default:()=>m,frontmatter:()=>w});var t=z(i()),w={title:\"Stuur Uw Monsters naar het Lab\",order:4,key:\"step4\",description:\"Verpak zorgvuldig uw verzamelde monsters en stuur ze terug naar ons laboratorium met behulp van de vooraf betaalde retourenvelop. Deze stap is essentieel voor uw gepersonaliseerde analyse.\"};function d(e){let r={h1:\"h1\",p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(r.h1,{children:\"Stuur Uw Monsters naar het Lab\"}),`\n`,(0,t.jsx)(r.p,{children:\"Verpak zorgvuldig uw verzamelde monsters en stuur ze terug naar ons laboratorium met behulp van de vooraf betaalde retourenvelop. Deze stap is essentieel voor uw gepersonaliseerde analyse.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(e={}){let{wrapper:r}=e.components||{};return r?(0,t.jsx)(r,{...e,children:(0,t.jsx)(d,{...e})}):d(e)}return f(_);})();\n;return Component;"
+        },
+        "_id": "steps/step4/nl.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step4/nl.mdx",
+          "sourceFileName": "nl.mdx",
+          "sourceFileDir": "steps/step4",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step4/nl"
+        },
+        "type": "Step",
+        "slug": "step4/nl"
+      },
+      "documentHash": "1742138623156",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step4/pt.mdx": {
+      "document": {
+        "title": "Envie as Suas Amostras para o Laboratório",
+        "description": "Embale cuidadosamente as suas amostras recolhidas e envie-as de volta para o nosso laboratório utilizando o envelope de devolução pré-pago. Este passo é vital para a sua análise personalizada.",
+        "order": 4,
+        "key": "step4",
+        "body": {
+          "raw": "\n# Envie as Suas Amostras para o Laboratório\n\nEmbale cuidadosamente as suas amostras recolhidas e envie-as de volta para o nosso laboratório utilizando o envelope de devolução pré-pago. Este passo é vital para a sua análise personalizada.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var c=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var v=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var _=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),b=(a,e)=>{for(var s in e)r(a,s,{get:e[s],enumerable:!0})},i=(a,e,s,n)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let t of v(e))!x.call(a,t)&&t!==s&&r(a,t,{get:()=>e[t],enumerable:!(n=m(e,t))||n.enumerable});return a};var E=(a,e,s)=>(s=a!=null?c(h(a)):{},i(e||!a||!a.__esModule?r(s,\"default\",{value:a,enumerable:!0}):s,a)),f=a=>i(r({},\"__esModule\",{value:!0}),a);var d=_((y,l)=>{l.exports=_jsx_runtime});var g={};b(g,{default:()=>u,frontmatter:()=>j});var o=E(d()),j={title:\"Envie as Suas Amostras para o Laborat\\xF3rio\",order:4,key:\"step4\",description:\"Embale cuidadosamente as suas amostras recolhidas e envie-as de volta para o nosso laborat\\xF3rio utilizando o envelope de devolu\\xE7\\xE3o pr\\xE9-pago. Este passo \\xE9 vital para a sua an\\xE1lise personalizada.\"};function p(a){let e={h1:\"h1\",p:\"p\",...a.components};return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(e.h1,{children:\"Envie as Suas Amostras para o Laborat\\xF3rio\"}),`\n`,(0,o.jsx)(e.p,{children:\"Embale cuidadosamente as suas amostras recolhidas e envie-as de volta para o nosso laborat\\xF3rio utilizando o envelope de devolu\\xE7\\xE3o pr\\xE9-pago. Este passo \\xE9 vital para a sua an\\xE1lise personalizada.\"}),`\n`,(0,o.jsx)(\"userStyle\",{children:\"Normal\"})]})}function u(a={}){let{wrapper:e}=a.components||{};return e?(0,o.jsx)(e,{...a,children:(0,o.jsx)(p,{...a})}):p(a)}return f(g);})();\n;return Component;"
+        },
+        "_id": "steps/step4/pt.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step4/pt.mdx",
+          "sourceFileName": "pt.mdx",
+          "sourceFileDir": "steps/step4",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step4/pt"
+        },
+        "type": "Step",
+        "slug": "step4/pt"
+      },
+      "documentHash": "1742138623156",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step5/de.mdx": {
+      "document": {
+        "title": "Laboranalyse und Bewertung",
+        "description": "Unsere Laborexperten werden Ihre Proben analysieren, einschließlich kontinuierlicher Glukoseüberwachungsdaten, Lipidprofil und Mikrobiomanalyse. Ihre personalisierte Ernährungsbewertung wird in Kürze in der App verfügbar sein und zeigt die Lebensmittel, die am besten zu den Bedürfnissen Ihres Körpers passen.",
+        "order": 5,
+        "key": "step5",
+        "body": {
+          "raw": "\n# Laboranalyse und Bewertung\n\nUnsere Laborexperten werden Ihre Proben analysieren, einschließlich kontinuierlicher Glukoseüberwachungsdaten, Lipidprofil und Mikrobiomanalyse. Ihre personalisierte Ernährungsbewertung wird in Kürze in der App verfügbar sein und zeigt die Lebensmittel, die am besten zu den Bedürfnissen Ihres Körpers passen.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var p=Object.create;var t=Object.defineProperty;var c=Object.getOwnPropertyDescriptor;var b=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var f=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),w=(e,n)=>{for(var i in n)t(e,i,{get:n[i],enumerable:!0})},o=(e,n,i,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let s of b(n))!g.call(e,s)&&s!==i&&t(e,s,{get:()=>n[s],enumerable:!(a=c(n,s))||a.enumerable});return e};var x=(e,n,i)=>(i=e!=null?p(m(e)):{},o(n||!e||!e.__esModule?t(i,\"default\",{value:e,enumerable:!0}):i,e)),y=e=>o(t({},\"__esModule\",{value:!0}),e);var l=f((z,d)=>{d.exports=_jsx_runtime});var k={};w(k,{default:()=>h,frontmatter:()=>L});var r=x(l()),L={title:\"Laboranalyse und Bewertung\",order:5,key:\"step5\",description:\"Unsere Laborexperten werden Ihre Proben analysieren, einschlie\\xDFlich kontinuierlicher Glukose\\xFCberwachungsdaten, Lipidprofil und Mikrobiomanalyse. Ihre personalisierte Ern\\xE4hrungsbewertung wird in K\\xFCrze in der App verf\\xFCgbar sein und zeigt die Lebensmittel, die am besten zu den Bed\\xFCrfnissen Ihres K\\xF6rpers passen.\"};function u(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(n.h1,{children:\"Laboranalyse und Bewertung\"}),`\n`,(0,r.jsx)(n.p,{children:\"Unsere Laborexperten werden Ihre Proben analysieren, einschlie\\xDFlich kontinuierlicher Glukose\\xFCberwachungsdaten, Lipidprofil und Mikrobiomanalyse. Ihre personalisierte Ern\\xE4hrungsbewertung wird in K\\xFCrze in der App verf\\xFCgbar sein und zeigt die Lebensmittel, die am besten zu den Bed\\xFCrfnissen Ihres K\\xF6rpers passen.\"}),`\n`,(0,r.jsx)(\"userStyle\",{children:\"Normal\"})]})}function h(e={}){let{wrapper:n}=e.components||{};return n?(0,r.jsx)(n,{...e,children:(0,r.jsx)(u,{...e})}):u(e)}return y(k);})();\n;return Component;"
+        },
+        "_id": "steps/step5/de.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step5/de.mdx",
+          "sourceFileName": "de.mdx",
+          "sourceFileDir": "steps/step5",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step5/de"
+        },
+        "type": "Step",
+        "slug": "step5/de"
+      },
+      "documentHash": "1742138623157",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step5/en.mdx": {
+      "document": {
+        "title": "Lab Analysis and Assessment",
+        "description": "Our lab experts will analyse your samples, including continuous glucose monitoring data, lipid profile, and microbiome analysis. Your personalised nutrition assessment will be available shortly in the app, revealing the foods best suited to your body's needs.",
+        "order": 5,
+        "key": "step5",
+        "body": {
+          "raw": "\n# Lab Analysis and Assessment\n\nOur lab experts will analyse your samples, including continuous glucose monitoring data, lipid profile, and microbiome analysis. Your personalised nutrition assessment will be available shortly in the app, revealing the foods best suited to your body's needs.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var m=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var y=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var x=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),g=(e,n)=>{for(var t in n)i(e,t,{get:n[t],enumerable:!0})},r=(e,n,t,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of y(n))!h.call(e,o)&&o!==t&&i(e,o,{get:()=>n[o],enumerable:!(a=p(n,o))||a.enumerable});return e};var f=(e,n,t)=>(t=e!=null?m(b(e)):{},r(n||!e||!e.__esModule?i(t,\"default\",{value:e,enumerable:!0}):t,e)),_=e=>r(i({},\"__esModule\",{value:!0}),e);var d=x((A,l)=>{l.exports=_jsx_runtime});var w={};g(w,{default:()=>c,frontmatter:()=>j});var s=f(d()),j={title:\"Lab Analysis and Assessment\",order:5,key:\"step5\",description:\"Our lab experts will analyse your samples, including continuous glucose monitoring data, lipid profile, and microbiome analysis. Your personalised nutrition assessment will be available shortly in the app, revealing the foods best suited to your body's needs.\"};function u(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(n.h1,{children:\"Lab Analysis and Assessment\"}),`\n`,(0,s.jsx)(n.p,{children:\"Our lab experts will analyse your samples, including continuous glucose monitoring data, lipid profile, and microbiome analysis. Your personalised nutrition assessment will be available shortly in the app, revealing the foods best suited to your body's needs.\"}),`\n`,(0,s.jsx)(\"userStyle\",{children:\"Normal\"})]})}function c(e={}){let{wrapper:n}=e.components||{};return n?(0,s.jsx)(n,{...e,children:(0,s.jsx)(u,{...e})}):u(e)}return _(w);})();\n;return Component;"
+        },
+        "_id": "steps/step5/en.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step5/en.mdx",
+          "sourceFileName": "en.mdx",
+          "sourceFileDir": "steps/step5",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step5/en"
+        },
+        "type": "Step",
+        "slug": "step5/en"
+      },
+      "documentHash": "1742138623156",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step5/es.mdx": {
+      "document": {
+        "title": "Análisis de Laboratorio y Evaluación",
+        "description": "Nuestros expertos de laboratorio analizarán tus muestras, incluidos los datos de monitoreo continuo de glucosa, el perfil de lípidos y el análisis del microbioma. Tu evaluación nutricional personalizada estará disponible en breve en la aplicación, revelando los alimentos más adecuados para las necesidades de tu cuerpo.",
+        "order": 5,
+        "key": "step5",
+        "body": {
+          "raw": "\n# Análisis de Laboratorio y Evaluación\n\nNuestros expertos de laboratorio analizarán tus muestras, incluidos los datos de monitoreo continuo de glucosa, el perfil de lípidos y el análisis del microbioma. Tu evaluación nutricional personalizada estará disponible en breve en la aplicación, revelando los alimentos más adecuados para las necesidades de tu cuerpo.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var p=Object.create;var i=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var v=(e,o)=>()=>(o||e((o={exports:{}}).exports,o),o.exports),f=(e,o)=>{for(var n in o)i(e,n,{get:o[n],enumerable:!0})},t=(e,o,n,r)=>{if(o&&typeof o==\"object\"||typeof o==\"function\")for(let s of x(o))!h.call(e,s)&&s!==n&&i(e,s,{get:()=>o[s],enumerable:!(r=m(o,s))||r.enumerable});return e};var y=(e,o,n)=>(n=e!=null?p(b(e)):{},t(o||!e||!e.__esModule?i(n,\"default\",{value:e,enumerable:!0}):n,e)),_=e=>t(i({},\"__esModule\",{value:!0}),e);var d=v((L,l)=>{l.exports=_jsx_runtime});var g={};f(g,{default:()=>u,frontmatter:()=>j});var a=y(d()),j={title:\"An\\xE1lisis de Laboratorio y Evaluaci\\xF3n\",order:5,key:\"step5\",description:\"Nuestros expertos de laboratorio analizar\\xE1n tus muestras, incluidos los datos de monitoreo continuo de glucosa, el perfil de l\\xEDpidos y el an\\xE1lisis del microbioma. Tu evaluaci\\xF3n nutricional personalizada estar\\xE1 disponible en breve en la aplicaci\\xF3n, revelando los alimentos m\\xE1s adecuados para las necesidades de tu cuerpo.\"};function c(e){let o={h1:\"h1\",p:\"p\",...e.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(o.h1,{children:\"An\\xE1lisis de Laboratorio y Evaluaci\\xF3n\"}),`\n`,(0,a.jsx)(o.p,{children:\"Nuestros expertos de laboratorio analizar\\xE1n tus muestras, incluidos los datos de monitoreo continuo de glucosa, el perfil de l\\xEDpidos y el an\\xE1lisis del microbioma. Tu evaluaci\\xF3n nutricional personalizada estar\\xE1 disponible en breve en la aplicaci\\xF3n, revelando los alimentos m\\xE1s adecuados para las necesidades de tu cuerpo.\"}),`\n`,(0,a.jsx)(\"userStyle\",{children:\"Normal\"})]})}function u(e={}){let{wrapper:o}=e.components||{};return o?(0,a.jsx)(o,{...e,children:(0,a.jsx)(c,{...e})}):c(e)}return _(g);})();\n;return Component;"
+        },
+        "_id": "steps/step5/es.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step5/es.mdx",
+          "sourceFileName": "es.mdx",
+          "sourceFileDir": "steps/step5",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step5/es"
+        },
+        "type": "Step",
+        "slug": "step5/es"
+      },
+      "documentHash": "1742138623156",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step5/fr.mdx": {
+      "document": {
+        "title": "Analyse de Laboratoire et Évaluation",
+        "description": "Nos experts de laboratoire analyseront vos échantillons, y compris les données de surveillance continue du glucose, le profil lipidique et l'analyse du microbiome. Votre évaluation nutritionnelle personnalisée sera bientôt disponible dans l'application, révélant les aliments les mieux adaptés aux besoins de votre corps.",
+        "order": 5,
+        "key": "step5",
+        "body": {
+          "raw": "\n# Analyse de Laboratoire et Évaluation\n\nNos experts de laboratoire analyseront vos échantillons, y compris les données de surveillance continue du glucose, le profil lipidique et l'analyse du microbiome. Votre évaluation nutritionnelle personnalisée sera bientôt disponible dans l'application, révélant les aliments les mieux adaptés aux besoins de votre corps.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var p=Object.create;var i=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,v=Object.prototype.hasOwnProperty;var y=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),h=(e,n)=>{for(var o in n)i(e,o,{get:n[o],enumerable:!0})},l=(e,n,o,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let s of x(n))!v.call(e,s)&&s!==o&&i(e,s,{get:()=>n[s],enumerable:!(a=m(n,s))||a.enumerable});return e};var f=(e,n,o)=>(o=e!=null?p(b(e)):{},l(n||!e||!e.__esModule?i(o,\"default\",{value:e,enumerable:!0}):o,e)),_=e=>l(i({},\"__esModule\",{value:!0}),e);var c=y((M,r)=>{r.exports=_jsx_runtime});var g={};h(g,{default:()=>u,frontmatter:()=>j});var t=f(c()),j={title:\"Analyse de Laboratoire et \\xC9valuation\",order:5,key:\"step5\",description:\"Nos experts de laboratoire analyseront vos \\xE9chantillons, y compris les donn\\xE9es de surveillance continue du glucose, le profil lipidique et l'analyse du microbiome. Votre \\xE9valuation nutritionnelle personnalis\\xE9e sera bient\\xF4t disponible dans l'application, r\\xE9v\\xE9lant les aliments les mieux adapt\\xE9s aux besoins de votre corps.\"};function d(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.h1,{children:\"Analyse de Laboratoire et \\xC9valuation\"}),`\n`,(0,t.jsx)(n.p,{children:\"Nos experts de laboratoire analyseront vos \\xE9chantillons, y compris les donn\\xE9es de surveillance continue du glucose, le profil lipidique et l'analyse du microbiome. Votre \\xE9valuation nutritionnelle personnalis\\xE9e sera bient\\xF4t disponible dans l'application, r\\xE9v\\xE9lant les aliments les mieux adapt\\xE9s aux besoins de votre corps.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function u(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(d,{...e})}):d(e)}return _(g);})();\n;return Component;"
+        },
+        "_id": "steps/step5/fr.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step5/fr.mdx",
+          "sourceFileName": "fr.mdx",
+          "sourceFileDir": "steps/step5",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step5/fr"
+        },
+        "type": "Step",
+        "slug": "step5/fr"
+      },
+      "documentHash": "1742138623156",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step5/it.mdx": {
+      "document": {
+        "title": "Analisi di Laboratorio e Valutazione",
+        "description": "I nostri esperti di laboratorio analizzeranno i tuoi campioni, inclusi i dati di monitoraggio continuo del glucosio, il profilo lipidico e l'analisi del microbioma. La tua valutazione nutrizionale personalizzata sarà presto disponibile nell'app, rivelando gli alimenti più adatti alle esigenze del tuo corpo.",
+        "order": 5,
+        "key": "step5",
+        "body": {
+          "raw": "\n# Analisi di Laboratorio e Valutazione\n\nI nostri esperti di laboratorio analizzeranno i tuoi campioni, inclusi i dati di monitoraggio continuo del glucosio, il profilo lipidico e l'analisi del microbioma. La tua valutazione nutrizionale personalizzata sarà presto disponibile nell'app, rivelando gli alimenti più adatti alle esigenze del tuo corpo.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var u=Object.create;var t=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var z=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var b=(i,o)=>()=>(o||i((o={exports:{}}).exports,o),o.exports),h=(i,o)=>{for(var n in o)t(i,n,{get:o[n],enumerable:!0})},r=(i,o,n,l)=>{if(o&&typeof o==\"object\"||typeof o==\"function\")for(let e of z(o))!x.call(i,e)&&e!==n&&t(i,e,{get:()=>o[e],enumerable:!(l=m(o,e))||l.enumerable});return i};var f=(i,o,n)=>(n=i!=null?u(g(i)):{},r(o||!i||!i.__esModule?t(n,\"default\",{value:i,enumerable:!0}):n,i)),_=i=>r(t({},\"__esModule\",{value:!0}),i);var d=b((y,s)=>{s.exports=_jsx_runtime});var L={};h(L,{default:()=>c,frontmatter:()=>j});var a=f(d()),j={title:\"Analisi di Laboratorio e Valutazione\",order:5,key:\"step5\",description:\"I nostri esperti di laboratorio analizzeranno i tuoi campioni, inclusi i dati di monitoraggio continuo del glucosio, il profilo lipidico e l'analisi del microbioma. La tua valutazione nutrizionale personalizzata sar\\xE0 presto disponibile nell'app, rivelando gli alimenti pi\\xF9 adatti alle esigenze del tuo corpo.\"};function p(i){let o={h1:\"h1\",p:\"p\",...i.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(o.h1,{children:\"Analisi di Laboratorio e Valutazione\"}),`\n`,(0,a.jsx)(o.p,{children:\"I nostri esperti di laboratorio analizzeranno i tuoi campioni, inclusi i dati di monitoraggio continuo del glucosio, il profilo lipidico e l'analisi del microbioma. La tua valutazione nutrizionale personalizzata sar\\xE0 presto disponibile nell'app, rivelando gli alimenti pi\\xF9 adatti alle esigenze del tuo corpo.\"}),`\n`,(0,a.jsx)(\"userStyle\",{children:\"Normal\"})]})}function c(i={}){let{wrapper:o}=i.components||{};return o?(0,a.jsx)(o,{...i,children:(0,a.jsx)(p,{...i})}):p(i)}return _(L);})();\n;return Component;"
+        },
+        "_id": "steps/step5/it.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step5/it.mdx",
+          "sourceFileName": "it.mdx",
+          "sourceFileDir": "steps/step5",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step5/it"
+        },
+        "type": "Step",
+        "slug": "step5/it"
+      },
+      "documentHash": "1742138623157",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step5/nl.mdx": {
+      "document": {
+        "title": "Laboratoriumanalyse en Beoordeling",
+        "description": "Onze laboratoriumexperts zullen uw monsters analyseren, inclusief continue glucosemonitoringgegevens, lipidenprofiel en microbioomanalyse. Uw gepersonaliseerde voedingsbeoordeling zal binnenkort beschikbaar zijn in de app, waarbij de voedingsmiddelen die het beste bij de behoeften van uw lichaam passen, worden onthuld.",
+        "order": 5,
+        "key": "step5",
+        "body": {
+          "raw": "\n# Laboratoriumanalyse en Beoordeling\n\nOnze laboratoriumexperts zullen uw monsters analyseren, inclusief continue glucosemonitoringgegevens, lipidenprofiel en microbioomanalyse. Uw gepersonaliseerde voedingsbeoordeling zal binnenkort beschikbaar zijn in de app, waarbij de voedingsmiddelen die het beste bij de behoeften van uw lichaam passen, worden onthuld.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var u=Object.create;var t=Object.defineProperty;var b=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var f=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),j=(e,n)=>{for(var i in n)t(e,i,{get:n[i],enumerable:!0})},s=(e,n,i,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let r of p(n))!h.call(e,r)&&r!==i&&t(e,r,{get:()=>n[r],enumerable:!(a=b(n,r))||a.enumerable});return e};var w=(e,n,i)=>(i=e!=null?u(g(e)):{},s(n||!e||!e.__esModule?t(i,\"default\",{value:e,enumerable:!0}):i,e)),x=e=>s(t({},\"__esModule\",{value:!0}),e);var d=f((_,l)=>{l.exports=_jsx_runtime});var v={};j(v,{default:()=>m,frontmatter:()=>y});var o=w(d()),y={title:\"Laboratoriumanalyse en Beoordeling\",order:5,key:\"step5\",description:\"Onze laboratoriumexperts zullen uw monsters analyseren, inclusief continue glucosemonitoringgegevens, lipidenprofiel en microbioomanalyse. Uw gepersonaliseerde voedingsbeoordeling zal binnenkort beschikbaar zijn in de app, waarbij de voedingsmiddelen die het beste bij de behoeften van uw lichaam passen, worden onthuld.\"};function c(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(n.h1,{children:\"Laboratoriumanalyse en Beoordeling\"}),`\n`,(0,o.jsx)(n.p,{children:\"Onze laboratoriumexperts zullen uw monsters analyseren, inclusief continue glucosemonitoringgegevens, lipidenprofiel en microbioomanalyse. Uw gepersonaliseerde voedingsbeoordeling zal binnenkort beschikbaar zijn in de app, waarbij de voedingsmiddelen die het beste bij de behoeften van uw lichaam passen, worden onthuld.\"}),`\n`,(0,o.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(e={}){let{wrapper:n}=e.components||{};return n?(0,o.jsx)(n,{...e,children:(0,o.jsx)(c,{...e})}):c(e)}return x(v);})();\n;return Component;"
+        },
+        "_id": "steps/step5/nl.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step5/nl.mdx",
+          "sourceFileName": "nl.mdx",
+          "sourceFileDir": "steps/step5",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step5/nl"
+        },
+        "type": "Step",
+        "slug": "step5/nl"
+      },
+      "documentHash": "1742138623157",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step5/pt.mdx": {
+      "document": {
+        "title": "Análise Laboratorial e Avaliação",
+        "description": "Os nossos especialistas de laboratório analisarão as suas amostras, incluindo dados de monitorização contínua de glicose, perfil lipídico e análise do microbioma. A sua avaliação nutricional personalizada estará disponível em breve na aplicação, revelando os alimentos mais adequados às necessidades do seu corpo.",
+        "order": 5,
+        "key": "step5",
+        "body": {
+          "raw": "\n# Análise Laboratorial e Avaliação\n\nOs nossos especialistas de laboratório analisarão as suas amostras, incluindo dados de monitorização contínua de glicose, perfil lipídico e análise do microbioma. A sua avaliação nutricional personalizada estará disponível em breve na aplicação, revelando os alimentos mais adequados às necessidades do seu corpo.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var p=Object.create;var n=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var v=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var h=(a,o)=>()=>(o||a((o={exports:{}}).exports,o),o.exports),f=(a,o)=>{for(var s in o)n(a,s,{get:o[s],enumerable:!0})},t=(a,o,s,r)=>{if(o&&typeof o==\"object\"||typeof o==\"function\")for(let i of v(o))!b.call(a,i)&&i!==s&&n(a,i,{get:()=>o[i],enumerable:!(r=u(o,i))||r.enumerable});return a};var _=(a,o,s)=>(s=a!=null?p(x(a)):{},t(o||!a||!a.__esModule?n(s,\"default\",{value:a,enumerable:!0}):s,a)),A=a=>t(n({},\"__esModule\",{value:!0}),a);var d=h((y,l)=>{l.exports=_jsx_runtime});var g={};f(g,{default:()=>m,frontmatter:()=>j});var e=_(d()),j={title:\"An\\xE1lise Laboratorial e Avalia\\xE7\\xE3o\",order:5,key:\"step5\",description:\"Os nossos especialistas de laborat\\xF3rio analisar\\xE3o as suas amostras, incluindo dados de monitoriza\\xE7\\xE3o cont\\xEDnua de glicose, perfil lip\\xEDdico e an\\xE1lise do microbioma. A sua avalia\\xE7\\xE3o nutricional personalizada estar\\xE1 dispon\\xEDvel em breve na aplica\\xE7\\xE3o, revelando os alimentos mais adequados \\xE0s necessidades do seu corpo.\"};function c(a){let o={h1:\"h1\",p:\"p\",...a.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(o.h1,{children:\"An\\xE1lise Laboratorial e Avalia\\xE7\\xE3o\"}),`\n`,(0,e.jsx)(o.p,{children:\"Os nossos especialistas de laborat\\xF3rio analisar\\xE3o as suas amostras, incluindo dados de monitoriza\\xE7\\xE3o cont\\xEDnua de glicose, perfil lip\\xEDdico e an\\xE1lise do microbioma. A sua avalia\\xE7\\xE3o nutricional personalizada estar\\xE1 dispon\\xEDvel em breve na aplica\\xE7\\xE3o, revelando os alimentos mais adequados \\xE0s necessidades do seu corpo.\"}),`\n`,(0,e.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(a={}){let{wrapper:o}=a.components||{};return o?(0,e.jsx)(o,{...a,children:(0,e.jsx)(c,{...a})}):c(a)}return A(g);})();\n;return Component;"
+        },
+        "_id": "steps/step5/pt.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step5/pt.mdx",
+          "sourceFileName": "pt.mdx",
+          "sourceFileDir": "steps/step5",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step5/pt"
+        },
+        "type": "Step",
+        "slug": "step5/pt"
+      },
+      "documentHash": "1742138623156",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step3/de.mdx": {
+      "document": {
+        "title": "Sammeln Sie Ihre Proben",
+        "description": "Befolgen Sie die Anweisungen in Ihrem Kit, um Ihre Glukose-, Lipid- und Mikrobiomproben zu sammeln. Eine genaue Sammlung gewährleistet die besten Ergebnisse für Ihre Bewertung.",
+        "order": 3,
+        "key": "step3",
+        "body": {
+          "raw": "\n# Sammeln Sie Ihre Proben\n\nBefolgen Sie die Anweisungen in Ihrem Kit, um Ihre Glukose-, Lipid- und Mikrobiomproben zu sammeln. Eine genaue Sammlung gewährleistet die besten Ergebnisse für Ihre Bewertung.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var d=Object.create;var o=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var c=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var f=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),x=(e,n)=>{for(var t in n)o(e,t,{get:n[t],enumerable:!0})},m=(e,n,t,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of c(n))!b.call(e,i)&&i!==t&&o(e,i,{get:()=>n[i],enumerable:!(s=g(n,i))||s.enumerable});return e};var S=(e,n,t)=>(t=e!=null?d(p(e)):{},m(n||!e||!e.__esModule?o(t,\"default\",{value:e,enumerable:!0}):t,e)),I=e=>m(o({},\"__esModule\",{value:!0}),e);var l=f((k,u)=>{u.exports=_jsx_runtime});var _={};x(_,{default:()=>h,frontmatter:()=>w});var r=S(l()),w={title:\"Sammeln Sie Ihre Proben\",order:3,key:\"step3\",description:\"Befolgen Sie die Anweisungen in Ihrem Kit, um Ihre Glukose-, Lipid- und Mikrobiomproben zu sammeln. Eine genaue Sammlung gew\\xE4hrleistet die besten Ergebnisse f\\xFCr Ihre Bewertung.\"};function a(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(n.h1,{children:\"Sammeln Sie Ihre Proben\"}),`\n`,(0,r.jsx)(n.p,{children:\"Befolgen Sie die Anweisungen in Ihrem Kit, um Ihre Glukose-, Lipid- und Mikrobiomproben zu sammeln. Eine genaue Sammlung gew\\xE4hrleistet die besten Ergebnisse f\\xFCr Ihre Bewertung.\"}),`\n`,(0,r.jsx)(\"userStyle\",{children:\"Normal\"})]})}function h(e={}){let{wrapper:n}=e.components||{};return n?(0,r.jsx)(n,{...e,children:(0,r.jsx)(a,{...e})}):a(e)}return I(_);})();\n;return Component;"
+        },
+        "_id": "steps/step3/de.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step3/de.mdx",
+          "sourceFileName": "de.mdx",
+          "sourceFileDir": "steps/step3",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step3/de"
+        },
+        "type": "Step",
+        "slug": "step3/de"
+      },
+      "documentHash": "1742138623155",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step3/en.mdx": {
+      "document": {
+        "title": "Collect Your Samples",
+        "description": "Follow the instructions in your kit to collect your glucose, lipid, and microbiome samples. Accurate collection ensures the best results for your assessment.",
+        "order": 3,
+        "key": "step3",
+        "body": {
+          "raw": "\n# Collect Your Samples\n\nFollow the instructions in your kit to collect your glucose, lipid, and microbiome samples. Accurate collection ensures the best results for your assessment.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var f=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),_=(e,t)=>{for(var s in t)r(e,s,{get:t[s],enumerable:!0})},l=(e,t,s,c)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let n of h(t))!y.call(e,n)&&n!==s&&r(e,n,{get:()=>t[n],enumerable:!(c=d(t,n))||c.enumerable});return e};var j=(e,t,s)=>(s=e!=null?p(x(e)):{},l(t||!e||!e.__esModule?r(s,\"default\",{value:e,enumerable:!0}):s,e)),b=e=>l(r({},\"__esModule\",{value:!0}),e);var u=f((k,i)=>{i.exports=_jsx_runtime});var C={};_(C,{default:()=>m,frontmatter:()=>g});var o=j(u()),g={title:\"Collect Your Samples\",order:3,key:\"step3\",description:\"Follow the instructions in your kit to collect your glucose, lipid, and microbiome samples. Accurate collection ensures the best results for your assessment.\"};function a(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(t.h1,{children:\"Collect Your Samples\"}),`\n`,(0,o.jsx)(t.p,{children:\"Follow the instructions in your kit to collect your glucose, lipid, and microbiome samples. Accurate collection ensures the best results for your assessment.\"}),`\n`,(0,o.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(e={}){let{wrapper:t}=e.components||{};return t?(0,o.jsx)(t,{...e,children:(0,o.jsx)(a,{...e})}):a(e)}return b(C);})();\n;return Component;"
+        },
+        "_id": "steps/step3/en.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step3/en.mdx",
+          "sourceFileName": "en.mdx",
+          "sourceFileDir": "steps/step3",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step3/en"
+        },
+        "type": "Step",
+        "slug": "step3/en"
+      },
+      "documentHash": "1742138623154",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step3/es.mdx": {
+      "document": {
+        "title": "Recolecta Tus Muestras",
+        "description": "Sigue las instrucciones de tu kit para recolectar tus muestras de glucosa, lípidos y microbioma. Una recolección precisa garantiza los mejores resultados para tu evaluación.",
+        "order": 3,
+        "key": "step3",
+        "body": {
+          "raw": "\n# Recolecta Tus Muestras\n\nSigue las instrucciones de tu kit para recolectar tus muestras de glucosa, lípidos y microbioma. Una recolección precisa garantiza los mejores resultados para tu evaluación.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var d=Object.create;var n=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var j=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),_=(e,t)=>{for(var a in t)n(e,a,{get:t[a],enumerable:!0})},c=(e,t,a,o)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let s of x(t))!h.call(e,s)&&s!==a&&n(e,s,{get:()=>t[s],enumerable:!(o=p(t,s))||o.enumerable});return e};var f=(e,t,a)=>(a=e!=null?d(g(e)):{},c(t||!e||!e.__esModule?n(a,\"default\",{value:e,enumerable:!0}):a,e)),y=e=>c(n({},\"__esModule\",{value:!0}),e);var u=j((b,i)=>{i.exports=_jsx_runtime});var k={};_(k,{default:()=>m,frontmatter:()=>M});var r=f(u()),M={title:\"Recolecta Tus Muestras\",order:3,key:\"step3\",description:\"Sigue las instrucciones de tu kit para recolectar tus muestras de glucosa, l\\xEDpidos y microbioma. Una recolecci\\xF3n precisa garantiza los mejores resultados para tu evaluaci\\xF3n.\"};function l(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(t.h1,{children:\"Recolecta Tus Muestras\"}),`\n`,(0,r.jsx)(t.p,{children:\"Sigue las instrucciones de tu kit para recolectar tus muestras de glucosa, l\\xEDpidos y microbioma. Una recolecci\\xF3n precisa garantiza los mejores resultados para tu evaluaci\\xF3n.\"}),`\n`,(0,r.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(e={}){let{wrapper:t}=e.components||{};return t?(0,r.jsx)(t,{...e,children:(0,r.jsx)(l,{...e})}):l(e)}return y(k);})();\n;return Component;"
+        },
+        "_id": "steps/step3/es.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step3/es.mdx",
+          "sourceFileName": "es.mdx",
+          "sourceFileDir": "steps/step3",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step3/es"
+        },
+        "type": "Step",
+        "slug": "step3/es"
+      },
+      "documentHash": "1742138623155",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step3/fr.mdx": {
+      "document": {
+        "title": "Collectez Vos Échantillons",
+        "description": "Suivez les instructions de votre kit pour recueillir vos échantillons de glucose, de lipides et de microbiome. Une collecte précise garantit les meilleurs résultats pour votre évaluation.",
+        "order": 3,
+        "key": "step3",
+        "body": {
+          "raw": "\n# Collectez Vos Échantillons\n\nSuivez les instructions de votre kit pour recueillir vos échantillons de glucose, de lipides et de microbiome. Une collecte précise garantit les meilleurs résultats pour votre évaluation.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var m=Object.create;var l=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var v=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var _=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),g=(e,t)=>{for(var n in t)l(e,n,{get:t[n],enumerable:!0})},i=(e,t,n,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of h(t))!x.call(e,r)&&r!==n&&l(e,r,{get:()=>t[r],enumerable:!(s=p(t,r))||s.enumerable});return e};var f=(e,t,n)=>(n=e!=null?m(v(e)):{},i(t||!e||!e.__esModule?l(n,\"default\",{value:e,enumerable:!0}):n,e)),j=e=>i(l({},\"__esModule\",{value:!0}),e);var u=_((y,c)=>{c.exports=_jsx_runtime});var C={};g(C,{default:()=>d,frontmatter:()=>z});var o=f(u()),z={title:\"Collectez Vos \\xC9chantillons\",order:3,key:\"step3\",description:\"Suivez les instructions de votre kit pour recueillir vos \\xE9chantillons de glucose, de lipides et de microbiome. Une collecte pr\\xE9cise garantit les meilleurs r\\xE9sultats pour votre \\xE9valuation.\"};function a(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(t.h1,{children:\"Collectez Vos \\xC9chantillons\"}),`\n`,(0,o.jsx)(t.p,{children:\"Suivez les instructions de votre kit pour recueillir vos \\xE9chantillons de glucose, de lipides et de microbiome. Une collecte pr\\xE9cise garantit les meilleurs r\\xE9sultats pour votre \\xE9valuation.\"}),`\n`,(0,o.jsx)(\"userStyle\",{children:\"Normal\"})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,o.jsx)(t,{...e,children:(0,o.jsx)(a,{...e})}):a(e)}return j(C);})();\n;return Component;"
+        },
+        "_id": "steps/step3/fr.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step3/fr.mdx",
+          "sourceFileName": "fr.mdx",
+          "sourceFileDir": "steps/step3",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step3/fr"
+        },
+        "type": "Step",
+        "slug": "step3/fr"
+      },
+      "documentHash": "1742138623154",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step3/it.mdx": {
+      "document": {
+        "title": "Raccogli I Tuoi Campioni",
+        "description": "Segui le istruzioni nel tuo kit per raccogliere i campioni di glucosio, lipidi e microbioma. Una raccolta accurata garantisce i migliori risultati per la tua valutazione.",
+        "order": 3,
+        "key": "step3",
+        "body": {
+          "raw": "\n# Raccogli I Tuoi Campioni\n\nSegui le istruzioni nel tuo kit per raccogliere i campioni di glucosio, lipidi e microbioma. Una raccolta accurata garantisce i migliori risultati per la tua valutazione.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var _=(i,t)=>()=>(t||i((t={exports:{}}).exports,t),t.exports),f=(i,t)=>{for(var o in t)r(i,o,{get:t[o],enumerable:!0})},c=(i,t,o,n)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let a of d(t))!h.call(i,a)&&a!==o&&r(i,a,{get:()=>t[a],enumerable:!(n=g(t,a))||n.enumerable});return i};var j=(i,t,o)=>(o=i!=null?p(x(i)):{},c(t||!i||!i.__esModule?r(o,\"default\",{value:i,enumerable:!0}):o,i)),z=i=>c(r({},\"__esModule\",{value:!0}),i);var u=_((M,l)=>{l.exports=_jsx_runtime});var k={};f(k,{default:()=>m,frontmatter:()=>C});var e=j(u()),C={title:\"Raccogli I Tuoi Campioni\",order:3,key:\"step3\",description:\"Segui le istruzioni nel tuo kit per raccogliere i campioni di glucosio, lipidi e microbioma. Una raccolta accurata garantisce i migliori risultati per la tua valutazione.\"};function s(i){let t={h1:\"h1\",p:\"p\",...i.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(t.h1,{children:\"Raccogli I Tuoi Campioni\"}),`\n`,(0,e.jsx)(t.p,{children:\"Segui le istruzioni nel tuo kit per raccogliere i campioni di glucosio, lipidi e microbioma. Una raccolta accurata garantisce i migliori risultati per la tua valutazione.\"}),`\n`,(0,e.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(i={}){let{wrapper:t}=i.components||{};return t?(0,e.jsx)(t,{...i,children:(0,e.jsx)(s,{...i})}):s(i)}return z(k);})();\n;return Component;"
+        },
+        "_id": "steps/step3/it.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step3/it.mdx",
+          "sourceFileName": "it.mdx",
+          "sourceFileDir": "steps/step3",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step3/it"
+        },
+        "type": "Step",
+        "slug": "step3/it"
+      },
+      "documentHash": "1742138623155",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step3/nl.mdx": {
+      "document": {
+        "title": "Verzamel Uw Monsters",
+        "description": "Volg de instructies in uw kit om uw glucose-, lipiden- en microbioommonsters te verzamelen. Nauwkeurige verzameling zorgt voor de beste resultaten voor uw beoordeling.",
+        "order": 3,
+        "key": "step3",
+        "body": {
+          "raw": "\n# Verzamel Uw Monsters\n\nVolg de instructies in uw kit om uw glucose-, lipiden- en microbioommonsters te verzamelen. Nauwkeurige verzameling zorgt voor de beste resultaten voor uw beoordeling.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var d=Object.create;var s=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var w=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var h=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),v=(e,t)=>{for(var o in t)s(e,o,{get:t[o],enumerable:!0})},l=(e,t,o,i)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of w(t))!x.call(e,r)&&r!==o&&s(e,r,{get:()=>t[r],enumerable:!(i=g(t,r))||i.enumerable});return e};var z=(e,t,o)=>(o=e!=null?d(p(e)):{},l(t||!e||!e.__esModule?s(o,\"default\",{value:e,enumerable:!0}):o,e)),_=e=>l(s({},\"__esModule\",{value:!0}),e);var u=h((k,m)=>{m.exports=_jsx_runtime});var f={};v(f,{default:()=>c,frontmatter:()=>b});var n=z(u()),b={title:\"Verzamel Uw Monsters\",order:3,key:\"step3\",description:\"Volg de instructies in uw kit om uw glucose-, lipiden- en microbioommonsters te verzamelen. Nauwkeurige verzameling zorgt voor de beste resultaten voor uw beoordeling.\"};function a(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.h1,{children:\"Verzamel Uw Monsters\"}),`\n`,(0,n.jsx)(t.p,{children:\"Volg de instructies in uw kit om uw glucose-, lipiden- en microbioommonsters te verzamelen. Nauwkeurige verzameling zorgt voor de beste resultaten voor uw beoordeling.\"}),`\n`,(0,n.jsx)(\"userStyle\",{children:\"Normal\"})]})}function c(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(a,{...e})}):a(e)}return _(f);})();\n;return Component;"
+        },
+        "_id": "steps/step3/nl.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step3/nl.mdx",
+          "sourceFileName": "nl.mdx",
+          "sourceFileDir": "steps/step3",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step3/nl"
+        },
+        "type": "Step",
+        "slug": "step3/nl"
+      },
+      "documentHash": "1742138623155",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    },
+    "steps/step3/pt.mdx": {
+      "document": {
+        "title": "Recolha as Suas Amostras",
+        "description": "Siga as instruções no seu kit para recolher as suas amostras de glicose, lípidos e microbioma. Uma recolha precisa garante os melhores resultados para a sua avaliação.",
+        "order": 3,
+        "key": "step3",
+        "body": {
+          "raw": "\n# Recolha as Suas Amostras\n\nSiga as instruções no seu kit para recolher as suas amostras de glicose, lípidos e microbioma. Uma recolha precisa garante os melhores resultados para a sua avaliação.\n\n<userStyle>Normal</userStyle>\n",
+          "code": "var Component=(()=>{var h=Object.create;var t=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var _=(a,s)=>()=>(s||a((s={exports:{}}).exports,s),s.exports),f=(a,s)=>{for(var r in s)t(a,r,{get:s[r],enumerable:!0})},i=(a,s,r,n)=>{if(s&&typeof s==\"object\"||typeof s==\"function\")for(let o of d(s))!g.call(a,o)&&o!==r&&t(a,o,{get:()=>s[o],enumerable:!(n=p(s,o))||n.enumerable});return a};var j=(a,s,r)=>(r=a!=null?h(x(a)):{},i(s||!a||!a.__esModule?t(r,\"default\",{value:a,enumerable:!0}):r,a)),S=a=>i(t({},\"__esModule\",{value:!0}),a);var l=_((b,c)=>{c.exports=_jsx_runtime});var y={};f(y,{default:()=>u,frontmatter:()=>k});var e=j(l()),k={title:\"Recolha as Suas Amostras\",order:3,key:\"step3\",description:\"Siga as instru\\xE7\\xF5es no seu kit para recolher as suas amostras de glicose, l\\xEDpidos e microbioma. Uma recolha precisa garante os melhores resultados para a sua avalia\\xE7\\xE3o.\"};function m(a){let s={h1:\"h1\",p:\"p\",...a.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(s.h1,{children:\"Recolha as Suas Amostras\"}),`\n`,(0,e.jsx)(s.p,{children:\"Siga as instru\\xE7\\xF5es no seu kit para recolher as suas amostras de glicose, l\\xEDpidos e microbioma. Uma recolha precisa garante os melhores resultados para a sua avalia\\xE7\\xE3o.\"}),`\n`,(0,e.jsx)(\"userStyle\",{children:\"Normal\"})]})}function u(a={}){let{wrapper:s}=a.components||{};return s?(0,e.jsx)(s,{...a,children:(0,e.jsx)(m,{...a})}):m(a)}return S(y);})();\n;return Component;"
+        },
+        "_id": "steps/step3/pt.mdx",
+        "_raw": {
+          "sourceFilePath": "steps/step3/pt.mdx",
+          "sourceFileName": "pt.mdx",
+          "sourceFileDir": "steps/step3",
+          "contentType": "mdx",
+          "flattenedPath": "steps/step3/pt"
+        },
+        "type": "Step",
+        "slug": "step3/pt"
+      },
+      "documentHash": "1742138623155",
+      "hasWarnings": false,
+      "documentTypeName": "Step"
+    }
+  }
+}

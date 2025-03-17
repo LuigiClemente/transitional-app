@@ -1,0 +1,20 @@
+{
+  "title": "Recibe Tu Kit",
+  "description": "¡Tu kit de prueba personalizado está en camino! Dentro encontrarás un monitor de glucosa, una prueba de lípidos de punción digital y un kit de muestra de heces para microbioma. Esté atento a su llegada pronto.",
+  "order": 1,
+  "key": "step1",
+  "body": {
+    "raw": "\n# Recibe Tu Kit\n\n¡Tu kit de prueba personalizado está en camino! Dentro encontrarás un monitor de glucosa, una prueba de lípidos de punción digital y un kit de muestra de heces para microbioma. Esté atento a su llegada pronto.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var l=Object.create;var a=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var g=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),_=(e,n)=>{for(var o in n)a(e,o,{get:n[o],enumerable:!0})},s=(e,n,o,i)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let r of h(n))!b.call(e,r)&&r!==o&&a(e,r,{get:()=>n[r],enumerable:!(i=m(n,r))||i.enumerable});return e};var f=(e,n,o)=>(o=e!=null?l(x(e)):{},s(n||!e||!e.__esModule?a(o,\"default\",{value:e,enumerable:!0}):o,e)),j=e=>s(a({},\"__esModule\",{value:!0}),e);var c=g((T,u)=>{u.exports=_jsx_runtime});var y={};_(y,{default:()=>p,frontmatter:()=>k});var t=f(c()),k={title:\"Recibe Tu Kit\",order:1,key:\"step1\",description:\"\\xA1Tu kit de prueba personalizado est\\xE1 en camino! Dentro encontrar\\xE1s un monitor de glucosa, una prueba de l\\xEDpidos de punci\\xF3n digital y un kit de muestra de heces para microbioma. Est\\xE9 atento a su llegada pronto.\"};function d(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.h1,{children:\"Recibe Tu Kit\"}),`\n`,(0,t.jsx)(n.p,{children:\"\\xA1Tu kit de prueba personalizado est\\xE1 en camino! Dentro encontrar\\xE1s un monitor de glucosa, una prueba de l\\xEDpidos de punci\\xF3n digital y un kit de muestra de heces para microbioma. Est\\xE9 atento a su llegada pronto.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function p(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(d,{...e})}):d(e)}return j(y);})();\n;return Component;"
+  },
+  "_id": "steps/step1/es.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step1/es.mdx",
+    "sourceFileName": "es.mdx",
+    "sourceFileDir": "steps/step1",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step1/es"
+  },
+  "type": "Step",
+  "slug": "step1/es"
+}

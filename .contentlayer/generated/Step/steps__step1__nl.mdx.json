@@ -1,0 +1,20 @@
+{
+  "title": "Ontvang Uw Kit",
+  "description": "Uw gepersonaliseerde testkit is onderweg! Binnenin vindt u een glucosemeter, een vingerprik lipidentest en een microbioom stoelgangmonsterkit. Let op de aankomst binnenkort.",
+  "order": 1,
+  "key": "step1",
+  "body": {
+    "raw": "\n# Ontvang Uw Kit\n\nUw gepersonaliseerde testkit is onderweg! Binnenin vindt u een glucosemeter, een vingerprik lipidentest en een microbioom stoelgangmonsterkit. Let op de aankomst binnenkort.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var k=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var h=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),w=(e,n)=>{for(var i in n)r(e,i,{get:n[i],enumerable:!0})},a=(e,n,i,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of u(n))!x.call(e,o)&&o!==i&&r(e,o,{get:()=>n[o],enumerable:!(s=p(n,o))||s.enumerable});return e};var _=(e,n,i)=>(i=e!=null?g(k(e)):{},a(n||!e||!e.__esModule?r(i,\"default\",{value:e,enumerable:!0}):i,e)),v=e=>a(r({},\"__esModule\",{value:!0}),e);var c=h((U,m)=>{m.exports=_jsx_runtime});var j={};w(j,{default:()=>l,frontmatter:()=>f});var t=_(c()),f={title:\"Ontvang Uw Kit\",order:1,key:\"step1\",description:\"Uw gepersonaliseerde testkit is onderweg! Binnenin vindt u een glucosemeter, een vingerprik lipidentest en een microbioom stoelgangmonsterkit. Let op de aankomst binnenkort.\"};function d(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.h1,{children:\"Ontvang Uw Kit\"}),`\n`,(0,t.jsx)(n.p,{children:\"Uw gepersonaliseerde testkit is onderweg! Binnenin vindt u een glucosemeter, een vingerprik lipidentest en een microbioom stoelgangmonsterkit. Let op de aankomst binnenkort.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function l(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(d,{...e})}):d(e)}return v(j);})();\n;return Component;"
+  },
+  "_id": "steps/step1/nl.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step1/nl.mdx",
+    "sourceFileName": "nl.mdx",
+    "sourceFileDir": "steps/step1",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step1/nl"
+  },
+  "type": "Step",
+  "slug": "step1/nl"
+}

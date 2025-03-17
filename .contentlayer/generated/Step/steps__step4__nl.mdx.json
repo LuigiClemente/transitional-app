@@ -1,0 +1,20 @@
+{
+  "title": "Stuur Uw Monsters naar het Lab",
+  "description": "Verpak zorgvuldig uw verzamelde monsters en stuur ze terug naar ons laboratorium met behulp van de vooraf betaalde retourenvelop. Deze stap is essentieel voor uw gepersonaliseerde analyse.",
+  "order": 4,
+  "key": "step4",
+  "body": {
+    "raw": "\n# Stuur Uw Monsters naar het Lab\n\nVerpak zorgvuldig uw verzamelde monsters en stuur ze terug naar ons laboratorium met behulp van de vooraf betaalde retourenvelop. Deze stap is essentieel voor uw gepersonaliseerde analyse.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var p=Object.create;var a=Object.defineProperty;var c=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var v=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var x=(e,r)=>()=>(r||e((r={exports:{}}).exports,r),r.exports),b=(e,r)=>{for(var n in r)a(e,n,{get:r[n],enumerable:!0})},u=(e,r,n,s)=>{if(r&&typeof r==\"object\"||typeof r==\"function\")for(let o of h(r))!g.call(e,o)&&o!==n&&a(e,o,{get:()=>r[o],enumerable:!(s=c(r,o))||s.enumerable});return e};var z=(e,r,n)=>(n=e!=null?p(v(e)):{},u(r||!e||!e.__esModule?a(n,\"default\",{value:e,enumerable:!0}):n,e)),f=e=>u(a({},\"__esModule\",{value:!0}),e);var i=x((y,l)=>{l.exports=_jsx_runtime});var _={};b(_,{default:()=>m,frontmatter:()=>w});var t=z(i()),w={title:\"Stuur Uw Monsters naar het Lab\",order:4,key:\"step4\",description:\"Verpak zorgvuldig uw verzamelde monsters en stuur ze terug naar ons laboratorium met behulp van de vooraf betaalde retourenvelop. Deze stap is essentieel voor uw gepersonaliseerde analyse.\"};function d(e){let r={h1:\"h1\",p:\"p\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(r.h1,{children:\"Stuur Uw Monsters naar het Lab\"}),`\n`,(0,t.jsx)(r.p,{children:\"Verpak zorgvuldig uw verzamelde monsters en stuur ze terug naar ons laboratorium met behulp van de vooraf betaalde retourenvelop. Deze stap is essentieel voor uw gepersonaliseerde analyse.\"}),`\n`,(0,t.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(e={}){let{wrapper:r}=e.components||{};return r?(0,t.jsx)(r,{...e,children:(0,t.jsx)(d,{...e})}):d(e)}return f(_);})();\n;return Component;"
+  },
+  "_id": "steps/step4/nl.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step4/nl.mdx",
+    "sourceFileName": "nl.mdx",
+    "sourceFileDir": "steps/step4",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step4/nl"
+  },
+  "type": "Step",
+  "slug": "step4/nl"
+}

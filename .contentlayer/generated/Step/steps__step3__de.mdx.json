@@ -1,0 +1,20 @@
+{
+  "title": "Sammeln Sie Ihre Proben",
+  "description": "Befolgen Sie die Anweisungen in Ihrem Kit, um Ihre Glukose-, Lipid- und Mikrobiomproben zu sammeln. Eine genaue Sammlung gewährleistet die besten Ergebnisse für Ihre Bewertung.",
+  "order": 3,
+  "key": "step3",
+  "body": {
+    "raw": "\n# Sammeln Sie Ihre Proben\n\nBefolgen Sie die Anweisungen in Ihrem Kit, um Ihre Glukose-, Lipid- und Mikrobiomproben zu sammeln. Eine genaue Sammlung gewährleistet die besten Ergebnisse für Ihre Bewertung.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var d=Object.create;var o=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var c=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var f=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),x=(e,n)=>{for(var t in n)o(e,t,{get:n[t],enumerable:!0})},m=(e,n,t,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of c(n))!b.call(e,i)&&i!==t&&o(e,i,{get:()=>n[i],enumerable:!(s=g(n,i))||s.enumerable});return e};var S=(e,n,t)=>(t=e!=null?d(p(e)):{},m(n||!e||!e.__esModule?o(t,\"default\",{value:e,enumerable:!0}):t,e)),I=e=>m(o({},\"__esModule\",{value:!0}),e);var l=f((k,u)=>{u.exports=_jsx_runtime});var _={};x(_,{default:()=>h,frontmatter:()=>w});var r=S(l()),w={title:\"Sammeln Sie Ihre Proben\",order:3,key:\"step3\",description:\"Befolgen Sie die Anweisungen in Ihrem Kit, um Ihre Glukose-, Lipid- und Mikrobiomproben zu sammeln. Eine genaue Sammlung gew\\xE4hrleistet die besten Ergebnisse f\\xFCr Ihre Bewertung.\"};function a(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(n.h1,{children:\"Sammeln Sie Ihre Proben\"}),`\n`,(0,r.jsx)(n.p,{children:\"Befolgen Sie die Anweisungen in Ihrem Kit, um Ihre Glukose-, Lipid- und Mikrobiomproben zu sammeln. Eine genaue Sammlung gew\\xE4hrleistet die besten Ergebnisse f\\xFCr Ihre Bewertung.\"}),`\n`,(0,r.jsx)(\"userStyle\",{children:\"Normal\"})]})}function h(e={}){let{wrapper:n}=e.components||{};return n?(0,r.jsx)(n,{...e,children:(0,r.jsx)(a,{...e})}):a(e)}return I(_);})();\n;return Component;"
+  },
+  "_id": "steps/step3/de.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step3/de.mdx",
+    "sourceFileName": "de.mdx",
+    "sourceFileDir": "steps/step3",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step3/de"
+  },
+  "type": "Step",
+  "slug": "step3/de"
+}

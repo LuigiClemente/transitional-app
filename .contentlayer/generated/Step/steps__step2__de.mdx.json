@@ -1,0 +1,20 @@
+{
+  "title": "Füllen Sie den Fragebogen aus",
+  "description": "Helfen Sie uns, Ihren Lebensstil und Ihre Ernährungsgewohnheiten zu verstehen, indem Sie den detaillierten Fragebogen in der App ausfüllen. Dies ist entscheidend für die genaue Anpassung Ihrer Bewertung.",
+  "order": 2,
+  "key": "step2",
+  "body": {
+    "raw": "\n# Füllen Sie den Fragebogen aus\n\nHelfen Sie uns, Ihren Lebensstil und Ihre Ernährungsgewohnheiten zu verstehen, indem Sie den detaillierten Fragebogen in der App ausfüllen. Dies ist entscheidend für die genaue Anpassung Ihrer Bewertung.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var g=Object.create;var i=Object.defineProperty;var c=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var x=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),F=(e,n)=>{for(var t in n)i(e,t,{get:n[t],enumerable:!0})},o=(e,n,t,d)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let s of p(n))!f.call(e,s)&&s!==t&&i(e,s,{get:()=>n[s],enumerable:!(d=c(n,s))||d.enumerable});return e};var S=(e,n,t)=>(t=e!=null?g(m(e)):{},o(n||!e||!e.__esModule?i(t,\"default\",{value:e,enumerable:!0}):t,e)),_=e=>o(i({},\"__esModule\",{value:!0}),e);var a=x((w,u)=>{u.exports=_jsx_runtime});var I={};F(I,{default:()=>h,frontmatter:()=>b});var r=S(a()),b={title:\"F\\xFCllen Sie den Fragebogen aus\",order:2,key:\"step2\",description:\"Helfen Sie uns, Ihren Lebensstil und Ihre Ern\\xE4hrungsgewohnheiten zu verstehen, indem Sie den detaillierten Fragebogen in der App ausf\\xFCllen. Dies ist entscheidend f\\xFCr die genaue Anpassung Ihrer Bewertung.\"};function l(e){let n={h1:\"h1\",p:\"p\",...e.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(n.h1,{children:\"F\\xFCllen Sie den Fragebogen aus\"}),`\n`,(0,r.jsx)(n.p,{children:\"Helfen Sie uns, Ihren Lebensstil und Ihre Ern\\xE4hrungsgewohnheiten zu verstehen, indem Sie den detaillierten Fragebogen in der App ausf\\xFCllen. Dies ist entscheidend f\\xFCr die genaue Anpassung Ihrer Bewertung.\"}),`\n`,(0,r.jsx)(\"userStyle\",{children:\"Normal\"})]})}function h(e={}){let{wrapper:n}=e.components||{};return n?(0,r.jsx)(n,{...e,children:(0,r.jsx)(l,{...e})}):l(e)}return _(I);})();\n;return Component;"
+  },
+  "_id": "steps/step2/de.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step2/de.mdx",
+    "sourceFileName": "de.mdx",
+    "sourceFileDir": "steps/step2",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step2/de"
+  },
+  "type": "Step",
+  "slug": "step2/de"
+}

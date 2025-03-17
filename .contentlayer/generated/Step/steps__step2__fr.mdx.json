@@ -1,0 +1,20 @@
+{
+  "title": "Complétez le Questionnaire",
+  "description": "Aidez-nous à comprendre votre mode de vie et vos habitudes alimentaires en remplissant le questionnaire détaillé dans l'application. C'est crucial pour adapter précisément votre évaluation.",
+  "order": 2,
+  "key": "step2",
+  "body": {
+    "raw": "\n# Complétez le Questionnaire\n\nAidez-nous à comprendre votre mode de vie et vos habitudes alimentaires en remplissant le questionnaire détaillé dans l'application. C'est crucial pour adapter précisément votre évaluation.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var m=Object.create;var o=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var v=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var _=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),C=(e,t)=>{for(var r in t)o(e,r,{get:t[r],enumerable:!0})},s=(e,t,r,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let i of h(t))!x.call(e,i)&&i!==r&&o(e,i,{get:()=>t[i],enumerable:!(a=u(t,i))||a.enumerable});return e};var f=(e,t,r)=>(r=e!=null?m(v(e)):{},s(t||!e||!e.__esModule?o(r,\"default\",{value:e,enumerable:!0}):r,e)),j=e=>s(o({},\"__esModule\",{value:!0}),e);var c=_((b,l)=>{l.exports=_jsx_runtime});var y={};C(y,{default:()=>p,frontmatter:()=>z});var n=f(c()),z={title:\"Compl\\xE9tez le Questionnaire\",order:2,key:\"step2\",description:\"Aidez-nous \\xE0 comprendre votre mode de vie et vos habitudes alimentaires en remplissant le questionnaire d\\xE9taill\\xE9 dans l'application. C'est crucial pour adapter pr\\xE9cis\\xE9ment votre \\xE9valuation.\"};function d(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.h1,{children:\"Compl\\xE9tez le Questionnaire\"}),`\n`,(0,n.jsx)(t.p,{children:\"Aidez-nous \\xE0 comprendre votre mode de vie et vos habitudes alimentaires en remplissant le questionnaire d\\xE9taill\\xE9 dans l'application. C'est crucial pour adapter pr\\xE9cis\\xE9ment votre \\xE9valuation.\"}),`\n`,(0,n.jsx)(\"userStyle\",{children:\"Normal\"})]})}function p(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(d,{...e})}):d(e)}return j(y);})();\n;return Component;"
+  },
+  "_id": "steps/step2/fr.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step2/fr.mdx",
+    "sourceFileName": "fr.mdx",
+    "sourceFileDir": "steps/step2",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step2/fr"
+  },
+  "type": "Step",
+  "slug": "step2/fr"
+}

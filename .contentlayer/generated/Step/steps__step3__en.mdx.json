@@ -1,0 +1,20 @@
+{
+  "title": "Collect Your Samples",
+  "description": "Follow the instructions in your kit to collect your glucose, lipid, and microbiome samples. Accurate collection ensures the best results for your assessment.",
+  "order": 3,
+  "key": "step3",
+  "body": {
+    "raw": "\n# Collect Your Samples\n\nFollow the instructions in your kit to collect your glucose, lipid, and microbiome samples. Accurate collection ensures the best results for your assessment.\n\n<userStyle>Normal</userStyle>\n",
+    "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var f=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),_=(e,t)=>{for(var s in t)r(e,s,{get:t[s],enumerable:!0})},l=(e,t,s,c)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let n of h(t))!y.call(e,n)&&n!==s&&r(e,n,{get:()=>t[n],enumerable:!(c=d(t,n))||c.enumerable});return e};var j=(e,t,s)=>(s=e!=null?p(x(e)):{},l(t||!e||!e.__esModule?r(s,\"default\",{value:e,enumerable:!0}):s,e)),b=e=>l(r({},\"__esModule\",{value:!0}),e);var u=f((k,i)=>{i.exports=_jsx_runtime});var C={};_(C,{default:()=>m,frontmatter:()=>g});var o=j(u()),g={title:\"Collect Your Samples\",order:3,key:\"step3\",description:\"Follow the instructions in your kit to collect your glucose, lipid, and microbiome samples. Accurate collection ensures the best results for your assessment.\"};function a(e){let t={h1:\"h1\",p:\"p\",...e.components};return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(t.h1,{children:\"Collect Your Samples\"}),`\n`,(0,o.jsx)(t.p,{children:\"Follow the instructions in your kit to collect your glucose, lipid, and microbiome samples. Accurate collection ensures the best results for your assessment.\"}),`\n`,(0,o.jsx)(\"userStyle\",{children:\"Normal\"})]})}function m(e={}){let{wrapper:t}=e.components||{};return t?(0,o.jsx)(t,{...e,children:(0,o.jsx)(a,{...e})}):a(e)}return b(C);})();\n;return Component;"
+  },
+  "_id": "steps/step3/en.mdx",
+  "_raw": {
+    "sourceFilePath": "steps/step3/en.mdx",
+    "sourceFileName": "en.mdx",
+    "sourceFileDir": "steps/step3",
+    "contentType": "mdx",
+    "flattenedPath": "steps/step3/en"
+  },
+  "type": "Step",
+  "slug": "step3/en"
+}

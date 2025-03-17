@@ -1,41 +1,25 @@
-import { useTranslations } from "next-intl";
-
+import { useLocale } from "next-intl";
+import { allSteps } from "contentlayer/generated";
 
 export function useStepper() {
-    const t = useTranslations('Steps');
-
-    const stepperData = [
-        {
-          step: t('step_1'),
-          title: t('receive_your_kit'),
-          description: t('step_1_description'),
-          imgSrc: '/static/images/google.png', // Assuming each step has a relevant image; replace or remove if not necessary.
-        },
-        {
-          step: t('step_2'),
-          title: t('complete_the_questionnaire'),
-          description: t('step_2_description'),
-          imgSrc: '/static/images/time-machine.jpg',
-        },
-        {
-          step: t('step_3'),
-          title: t('collect_your_samples'),
-          description: t('step_3_description'),
-          imgSrc: '/static/images/time-machine.jpg',
-        },
-        {
-          step: t('step_4'),
-          title: t('send_your_samples_to_the_lab'),
-          description: t('step_4_description'),
-          imgSrc: '/static/images/time-machine.jpg',
-        },
-        {
-          step: t('step_5'),
-          title: t('lab_analysis_and_assessment'),
-          description: t('step_5_description'),
-          imgSrc: '/static/images/time-machine.jpg',
-        },
-    ]
+    const locale = useLocale();
+    
+    // Get all steps for the current locale and sort by order
+    const steps = allSteps
+        .filter(step => {
+            // Check if the step's source path includes the current locale
+            // For example, if locale is 'en', we want steps from 'en.mdx' files
+            return step._raw.sourceFilePath.includes(`/${locale}.mdx`);
+        })
+        .sort((a, b) => a.order - b.order);
+        
+    // Transform the data to match your expected format
+    const stepperData = steps.map(step => ({
+        step: `Step ${step.order}`,
+        title: step.title,
+        description: step.description,
+        imgSrc: '/static/images/time-machine.jpg',
+    }));
 
     return stepperData;
 }
